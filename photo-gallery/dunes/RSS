@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/dunes/RSS">
+  <title>dunes</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well-and-thirsty-camel-herd"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/thirsty-camel-herd-at-ghubbar-well-and-water"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/har-rashid-milking-camels"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/har-rashid-milking-camels-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-dunes-of-the-empty-quarter-in-the-distance"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sunset-at-ghubbar"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-dunes-of-sahma"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/milking-camels-at-sunset"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/feeding-goats"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/feeding-goats-1"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well-and-thirsty-camel-herd">
+    <title>Ghubbar well and thirsty camel herd</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well-and-thirsty-camel-herd</link>
+    <description>Ghubbar well and thirsty camel herd</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>animal troughs</dc:subject>
+    
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    
+      <dc:subject>weavings</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/thirsty-camel-herd-at-ghubbar-well-and-water">
+    <title>Thirsty camel herd at Ghubbar well and water trough</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/thirsty-camel-herd-at-ghubbar-well-and-water</link>
+    <description>Thirsty camel herd at Ghubbar well and water trough</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>animal troughs</dc:subject>
+    
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/har-rashid-milking-camels">
+    <title>Har-Rashid milking camels</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/har-rashid-milking-camels</link>
+    <description>Har-Rashid milking camels</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>weavings</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/har-rashid-milking-camels-1">
+    <title>Har-Rashid milking camels</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/har-rashid-milking-camels-1</link>
+    <description>Har-Rashid milking camels</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>weavings</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-dunes-of-the-empty-quarter-in-the-distance">
+    <title>Sand dunes of the Empty Quarter in the distance</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-dunes-of-the-empty-quarter-in-the-distance</link>
+    <description>Sand dunes of the Empty Quarter in the distance</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:20Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well">
+    <title>Ghubbar well</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well</link>
+    <description>Ghubbar well</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:20Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well-1">
+    <title>Ghubbar well</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/ghubbar-well-1</link>
+    <description>Ghubbar well</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:20Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sunset-at-ghubbar">
+    <title>Sunset at Ghubbar</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sunset-at-ghubbar</link>
+    <description>Sunset at Ghubbar</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>boys</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>camp fires</dc:subject>
+    
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>rifles</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    
+      <dc:subject>tea</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:20Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-dunes-of-sahma">
+    <title>Sand dunes of Sahma</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-dunes-of-sahma</link>
+    <description>Sand dunes of Sahma</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma">
+    <title>Sunrise over Sahma</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma</link>
+    <description>Sunrise over Sahma</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:31Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma-1">
+    <title>Sunrise over Sahma</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma-1</link>
+    <description>Sunrise over Sahma</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:31Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma-2">
+    <title>Sunrise over Sahma</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sunrise-over-sahma-2</link>
+    <description>Sunrise over Sahma</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/milking-camels-at-sunset">
+    <title>Milking camels at sunset</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/milking-camels-at-sunset</link>
+    <description>Milking camels at sunset</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:40Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/feeding-goats">
+    <title>Feeding goats</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/feeding-goats</link>
+    <description>Feeding goats</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>dates</dc:subject>
+    
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>goats</dc:subject>
+    
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:41Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/feeding-goats-1">
+    <title>Feeding goats</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/feeding-goats-1</link>
+    <description>Feeding goats</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>dates</dc:subject>
+    
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>goats</dc:subject>
+    
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:41Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

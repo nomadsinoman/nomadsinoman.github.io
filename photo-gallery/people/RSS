@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/people/RSS">
+  <title>People</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-break-at-the-base-camp"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding">
+    <title>Dressed for a wedding</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding</link>
+    <description>Dressed for a wedding</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>jewellery</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2011-09-09T09:24:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1">
+    <title>Dressed for a wedding</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1</link>
+    <description>Dressed for a wedding</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>jewellery</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>girls</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>parents</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2011-08-16T16:25:13Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market">
+    <title>Nizwa market</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/nizwa-market</link>
+    <description>Nizwa market</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>cars</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    <dc:date>2011-09-09T09:26:21Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio">
+    <title>Setting up the base camp HF radio</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio</link>
+    <description>Setting up the base camp HF radio</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>base stations</dc:subject>
+    
+    <dc:date>2011-09-09T09:27:02Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio-1">
+    <title>Setting up the base camp HF radio</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio-1</link>
+    <description>Setting up the base camp HF radio</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>base stations</dc:subject>
+    
+    <dc:date>2011-09-09T09:27:20Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-break-at-the-base-camp">
+    <title>Taking a break at the base camp</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-break-at-the-base-camp</link>
+    <description>Taking a break at the base camp</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>base stations</dc:subject>
+    
+    <dc:date>2011-09-09T11:30:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break">
+    <title>Taking a midday break</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break</link>
+    <description>Taking a midday break</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    <dc:date>2011-09-09T11:30:39Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1">
+    <title>Taking a midday break</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1</link>
+    <description>Taking a midday break</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>tea</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    <dc:date>2011-09-09T11:31:00Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert">
+    <title>Morning tea in the desert</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert</link>
+    <description>Morning tea in the desert</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>camp fires</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>tea</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:56:58Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset">
+    <title>Preparing to set up camp at sunset</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset</link>
+    <description>Preparing to set up camp at sunset</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>rifles</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    <dc:date>2010-10-29T14:56:58Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening">
+    <title>Preparing tea in the evening</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening</link>
+    <description>Preparing tea in the evening</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>camp fires</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    
+      <dc:subject>tea</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:56:58Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site">
+    <title>Morning fire at camp site</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site</link>
+    <description>Morning fire at camp site</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>camp fires</dc:subject>
+    
+    
+      <dc:subject>cars</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>goats</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sunrises</dc:subject>
+    
+    
+      <dc:subject>tea</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:56:58Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1">
+    <title>Morning fire at camp site</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1</link>
+    <description>Morning fire at camp site</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>camp fires</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>tea</dc:subject>
+    
+    <dc:date>2010-10-29T14:56:59Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site">
+    <title>Morning at camp site</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site</link>
+    <description>Morning at camp site</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    <dc:date>2010-10-29T14:56:59Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well">
+    <title>Jalmud well</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/jalmud-well</link>
+    <description>Jalmud well</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>animal troughs</dc:subject>
+    
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:56:59Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/maps/RSS">
+  <title>maps</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/map-of-the-sultanate-of-oman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tribes-and-regions-in-the-sultanate-of-oman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/towns-and-wadis-in-the-sultanate-of-oman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sultanate-of-oman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/map-of-arabia"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-2"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/map-of-the-sultanate-of-oman">
+    <title>Map of the Sultanate of Oman</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/map-of-the-sultanate-of-oman</link>
+    <description>Map of the Sultanate of Oman</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tribes-and-regions-in-the-sultanate-of-oman">
+    <title>Tribes and regions in the Sultanate of Oman</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/tribes-and-regions-in-the-sultanate-of-oman</link>
+    <description>Tribes and regions in the Sultanate of Oman</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis">
+    <title>Jiddat-il-Harasiis</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis</link>
+    <description>Jiddat-il-Harasiis</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-1">
+    <title>Jiddat-il-Harasiis</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-1</link>
+    <description>Jiddat-il-Harasiis</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/towns-and-wadis-in-the-sultanate-of-oman">
+    <title>Towns and wadis in the Sultanate of Oman</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/towns-and-wadis-in-the-sultanate-of-oman</link>
+    <description>Towns and wadis in the Sultanate of Oman</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sultanate-of-oman">
+    <title>Sultanate of Oman</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sultanate-of-oman</link>
+    <description>Sultanate of Oman</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-2">
+    <title>Jiddat-il-Harasiis</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-2</link>
+    <description>Jiddat-il-Harasiis</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991">
+    <title>Administrative regions of Oman prior to 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991</link>
+    <description>Administrative regions of Oman prior to 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991">
+    <title>Administrative regions of Oman after 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991</link>
+    <description>Administrative regions of Oman after 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-1">
+    <title>Administrative regions of Oman prior to 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-1</link>
+    <description>Administrative regions of Oman prior to 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-1">
+    <title>Administrative regions of Oman after 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-1</link>
+    <description>Administrative regions of Oman after 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-2">
+    <title>Administrative regions of Oman after 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-2</link>
+    <description>Administrative regions of Oman after 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/map-of-arabia">
+    <title>Map of Arabia</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/map-of-arabia</link>
+    <description>Map of Arabia</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-2">
+    <title>Administrative regions of Oman prior to 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-2</link>
+    <description>Administrative regions of Oman prior to 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

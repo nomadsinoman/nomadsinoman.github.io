@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/portrait/RSS">
+  <title>portrait</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-11"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/old-haima-well-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tribes-and-regions-in-the-sultanate-of-oman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/towns-and-wadis-in-the-sultanate-of-oman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sultanate-of-oman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-3"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding">
+    <title>Dressed for a wedding</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding</link>
+    <description>Dressed for a wedding</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>jewellery</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2011-09-09T09:24:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1">
+    <title>Dressed for a wedding</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1</link>
+    <description>Dressed for a wedding</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>jewellery</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>girls</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>parents</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2011-08-16T16:25:13Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-11">
+    <title>Haima tribal centre aerial shot 1981</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-11</link>
+    <description>Haima tribal centre aerial shot 1981</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>government offices</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:01Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/old-haima-well-1">
+    <title>Old Haima well</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/old-haima-well-1</link>
+    <description>Old Haima well</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>palms</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    
+      <dc:subject>wells</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:02Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tribes-and-regions-in-the-sultanate-of-oman">
+    <title>Tribes and regions in the Sultanate of Oman</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/tribes-and-regions-in-the-sultanate-of-oman</link>
+    <description>Tribes and regions in the Sultanate of Oman</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis">
+    <title>Jiddat-il-Harasiis</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis</link>
+    <description>Jiddat-il-Harasiis</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-1">
+    <title>Jiddat-il-Harasiis</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-1</link>
+    <description>Jiddat-il-Harasiis</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/towns-and-wadis-in-the-sultanate-of-oman">
+    <title>Towns and wadis in the Sultanate of Oman</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/towns-and-wadis-in-the-sultanate-of-oman</link>
+    <description>Towns and wadis in the Sultanate of Oman</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sultanate-of-oman">
+    <title>Sultanate of Oman</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sultanate-of-oman</link>
+    <description>Sultanate of Oman</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:04Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-2">
+    <title>Jiddat-il-Harasiis</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/jiddat-il-harasiis-2</link>
+    <description>Jiddat-il-Harasiis</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991">
+    <title>Administrative regions of Oman prior to 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991</link>
+    <description>Administrative regions of Oman prior to 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991">
+    <title>Administrative regions of Oman after 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991</link>
+    <description>Administrative regions of Oman after 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-1">
+    <title>Administrative regions of Oman prior to 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-prior-to-1991-1</link>
+    <description>Administrative regions of Oman prior to 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:05Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-1">
+    <title>Administrative regions of Oman after 1991</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/administrative-regions-of-oman-after-1991-1</link>
+    <description>Administrative regions of Oman after 1991</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>maps</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-3">
+    <title>Camel race</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-3</link>
+    <description>Camel race</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>cars</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>weavings</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

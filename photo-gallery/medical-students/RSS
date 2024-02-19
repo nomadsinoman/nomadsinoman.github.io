@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/medical-students/RSS">
+  <title>medical students</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-perform-examinations"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-talking-to-primary"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-4"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-5"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-6"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-7"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-perform-examinations">
+    <title>Seventh year medical students perform examinations</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-perform-examinations</link>
+    <description>Seventh year medical students perform examinations</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>examinations</dc:subject>
+    
+    
+      <dc:subject>goats</dc:subject>
+    
+    
+      <dc:subject>Health</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>water bowsers</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:12Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>examinations</dc:subject>
+    
+    
+      <dc:subject>goats</dc:subject>
+    
+    
+      <dc:subject>Health</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>water bowsers</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students">
+    <title>Seventh year medical students</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students</link>
+    <description>Seventh year medical students</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-1">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-1</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>containers</dc:subject>
+    
+    
+      <dc:subject>elders</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-2">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-2</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>elders</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-3">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-3</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>elders</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>water bowsers</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-talking-to-primary">
+    <title>Seventh year medical students talking to primary school students</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-talking-to-primary</link>
+    <description>Seventh year medical students talking to primary school students</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-4">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-4</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>examinations</dc:subject>
+    
+    
+      <dc:subject>Health</dc:subject>
+    
+    
+      <dc:subject>infants</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-5">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-5</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>examinations</dc:subject>
+    
+    
+      <dc:subject>Health</dc:subject>
+    
+    
+      <dc:subject>infants</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-6">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-6</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>examinations</dc:subject>
+    
+    
+      <dc:subject>Health</dc:subject>
+    
+    
+      <dc:subject>infants</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-1">
+    <title>Seventh year medical students</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-1</link>
+    <description>Seventh year medical students</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations">
+    <title>Seventh year medical students making presentations</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations</link>
+    <description>Seventh year medical students making presentations</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>jewellery</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-1">
+    <title>Seventh year medical students making presentations</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-1</link>
+    <description>Seventh year medical students making presentations</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-2">
+    <title>Seventh year medical students making presentations</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-2</link>
+    <description>Seventh year medical students making presentations</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-7">
+    <title>Seventh year medical students examining patient</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-7</link>
+    <description>Seventh year medical students examining patient</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>elders</dc:subject>
+    
+    
+      <dc:subject>examinations</dc:subject>
+    
+    
+      <dc:subject>Health</dc:subject>
+    
+    
+      <dc:subject>medical students</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

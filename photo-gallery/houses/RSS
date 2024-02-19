@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/houses/RSS">
+  <title>houses</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-accommodation"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-accommodation-viewed-from-the-south"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-4"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-5"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/health-workers-residence-at-haima"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/health-workers-accommodation-at-haima"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/new-haima-hospital"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/health-workers-residence-at-haima-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/low-cost-housing-at-haima"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/elder-in-full-formal-dress"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/government-housing"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-accommodation">
+    <title>Haima accommodation</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-accommodation</link>
+    <description>Haima accommodation</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:03Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-accommodation-viewed-from-the-south">
+    <title>Haima accommodation viewed from the south</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-accommodation-viewed-from-the-south</link>
+    <description>Haima accommodation viewed from the south</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:08Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit">
+    <title>Haima low cost housing unit</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit</link>
+    <description>Haima low cost housing unit</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-1">
+    <title>Haima low cost housing unit</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-1</link>
+    <description>Haima low cost housing unit</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-2">
+    <title>Haima low cost housing unit</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-2</link>
+    <description>Haima low cost housing unit</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-3">
+    <title>Haima low cost housing unit</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-3</link>
+    <description>Haima low cost housing unit</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-4">
+    <title>Haima low cost housing unit</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-4</link>
+    <description>Haima low cost housing unit</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-5">
+    <title>Haima low cost housing unit</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-low-cost-housing-unit-5</link>
+    <description>Haima low cost housing unit</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/health-workers-residence-at-haima">
+    <title>Health workers' residence at Haima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/health-workers-residence-at-haima</link>
+    <description>Health workers' residence at Haima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/health-workers-accommodation-at-haima">
+    <title>Health workers' accommodation at Haima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/health-workers-accommodation-at-haima</link>
+    <description>Health workers' accommodation at Haima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/new-haima-hospital">
+    <title>New Haima hospital</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/new-haima-hospital</link>
+    <description>New Haima hospital</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/health-workers-residence-at-haima-1">
+    <title>Health workers' residence at Haima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/health-workers-residence-at-haima-1</link>
+    <description>Health workers' residence at Haima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>cars</dc:subject>
+    
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:29Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/low-cost-housing-at-haima">
+    <title>Low cost housing at Haima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/low-cost-housing-at-haima</link>
+    <description>Low cost housing at Haima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>government offices</dc:subject>
+    
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:35Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/elder-in-full-formal-dress">
+    <title>Elder in full formal dress</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/elder-in-full-formal-dress</link>
+    <description>Elder in full formal dress</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>elders</dc:subject>
+    
+    
+      <dc:subject>government offices</dc:subject>
+    
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>rifles</dc:subject>
+    
+    
+      <dc:subject>sunsets</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:09Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/government-housing">
+    <title>Government housing</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/government-housing</link>
+    <description>Government housing</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>houses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:15Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

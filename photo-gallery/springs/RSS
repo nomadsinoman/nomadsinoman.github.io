@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/springs/RSS">
+  <title>springs</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-4"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-5"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/wadi-bed-in-the-huqf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-huqf-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-huqf-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-huqf-6"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-2">
+    <title>Mughshin spring</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-2</link>
+    <description>Mughshin spring</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-4">
+    <title>Mughshin spring</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-4</link>
+    <description>Mughshin spring</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-5">
+    <title>Mughshin spring</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-spring-5</link>
+    <description>Mughshin spring</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/wadi-bed-in-the-huqf">
+    <title>Wadi bed in the Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/wadi-bed-in-the-huqf</link>
+    <description>Wadi bed in the Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf">
+    <title>Limestone seepage in the Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf</link>
+    <description>Limestone seepage in the Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-1">
+    <title>Limestone seepage in the Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-1</link>
+    <description>Limestone seepage in the Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-2">
+    <title>Limestone seepage in the Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-2</link>
+    <description>Limestone seepage in the Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-3">
+    <title>Limestone seepage in the Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/limestone-seepage-in-the-huqf-3</link>
+    <description>Limestone seepage in the Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-huqf-1">
+    <title>The Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-huqf-1</link>
+    <description>The Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>palms</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:32Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-huqf-3">
+    <title>The Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-huqf-3</link>
+    <description>The Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:33Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-huqf-6">
+    <title>The Huqf</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-huqf-6</link>
+    <description>The Huqf</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>palms</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>springs</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:33Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

@@ -1,0 +1,297 @@
+/* 
+xdvxpress.css: combines xdvxpress.css; grid-layout.css; typography.css
+*/
+
+/* resets */
+/* but leave out table stuff for now: ,
+table, caption, tbody, tfoot, thead, tr, th, td, 
+*/
+
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, div#portal-column-content {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+
+}
+
+/* typography.css */
+/* Basic typography */
+body {
+
+		font-size: 62.5%;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		
+		
+}
+
+
+h1 {
+	font-size:1.6em;
+	margin-bottom:1em;
+
+}
+
+h2 {
+	font-size: 1.3em;
+	margin:0.5em 0 0.5em 0;
+
+}
+
+/* grid-layout.css */
+/* 	Basic layout
+	
+	We're using a basic centred 960 grid layout.
+
+ */
+
+#container {
+	/*	we add !important to the margin as webkit 
+		doesn't seem to like it otherwise when
+		extending this stylesheet
+	*/
+	margin:0 auto !important;
+	width: 960px;
+	font-size: 1.4em;
+	color: #000;
+	
+}
+
+#header {
+
+}
+
+#nav-top {
+	position:relative;
+	float: left;
+	display: inline;
+	width: 780px;
+
+}
+
+/* Top-level navigation / tabs */
+
+ul#portal-globalnav {
+	position: relative;
+	display: inline;
+	float: left;
+}
+
+ul#portal-globalnav li {
+	position: relative;
+	display: inline;
+	float: left;
+	margin-right:1em;
+}
+
+#search-box {
+	position: relative;
+	float: left;
+	display: inline;
+	width: 180px;
+}
+
+
+#portal-columns {
+	width:960px;
+	margin:0 auto;
+
+}
+
+#left-column {
+	clear: both;
+	display: inline;
+	position: relative;
+	width: 180px;
+	margin-right:10px;
+	float: left;
+}
+
+#portal-column-content {
+	
+	display: inline;
+	position: relative;
+	width: 580px;
+	float: left;
+	padding:0;
+}
+
+
+#region-content ul {
+
+	margin-left:40px;
+
+}
+
+/* Content section styles */
+#content {
+	padding:0 10px 0 10px;
+	line-height:1.4em;
+}
+
+/* Some padding for <ol>s and <ul>s */
+#content ol, #content ul {
+	padding-left: 20px;
+}
+
+
+
+#right-column {
+	display: inline;
+	position: relative;
+	width: 180px;
+	margin-left:10px;
+	float: left;
+}
+
+
+
+#right-column div {
+	margin:0;
+	padding:0;
+}
+
+/* Reduce the size of the calendar table */
+.ploneCalendar {
+	font-size: 0.8em;
+	margin-left:0;
+	padding-left:0;
+}
+
+#footer {
+	font-size: 1.4em;
+	clear:both;
+	
+
+}
+
+.footer-content {
+	
+	width:960px;
+	/*	we add !important to the margin as webkit 
+		doesn't seem to like it otherwise when
+		extending this stylesheet
+	*/
+	margin:0 auto !important;
+}
+
+/* Editing styles */
+
+#content form {
+	padding-top:2em;
+}
+
+#portal-column-content #content-views {
+	font-size: 0.8em;
+}
+
+/* Kupu styles */
+html.kupu-html {
+	font-size: 1.4em;
+	line-height: 1.4em;
+}
+
+html.kupu-html ol, html.kupu-html ul {
+	padding-left:20px;
+}
+
+/* Let's neutralise the editing controls */
+#content-section .documentEditable .documentContent {
+	border:1px solid #999;
+}
+
+
+#content-section .contentViews {
+	
+	background-color:transparent;
+	border-color:#999999;
+	border-style:solid;
+	border-width:0 0 1px;
+	line-height:normal;
+	list-style-image:none;
+	list-style-position:outside;
+	list-style-type:none;
+	margin:0;
+	padding-left:1em;
+
+}
+
+#content-section .contentActions {
+	background-color:#CCCCCC;
+	border-left:1px solid #999;
+	border-right:1px solid #999;
+	color:#000000;
+}
+
+#content-section .contentViews {
+	
+	border-bottom:1px solid #CCCCCC;
+	color:#000000;
+
+}
+
+#content-section .contentActions a {
+	color:#000000;
+}
+
+#content-section .actionMenu .actionMenuContent ul {
+	background:#CCCCCC none repeat scroll 0 0;
+	border-color:#999999;
+	border-style:none solid solid;
+	border-width:1px;
+	display:block;
+	margin:-2px 0 0;
+	padding:0;
+}
+
+#content-section .contentViews li a {
+	background-color:transparent;
+	border:1px solid #999999;
+	color:#000000;
+	height:auto;
+	line-height:normal;
+	margin-right:0.5em;
+	padding:0 1em;
+	text-decoration:none;
+	text-transform:lowercase;
+	z-index:1;
+}
+
+#content-section .contentViews .selected a {
+	background-color:#CCCCCC;
+	border-bottom:1px solid #999999;
+	color:#000000;
+}	
+
+#content-section .actionMenu .actionMenuContent .actionSeparator a {
+	border-top:1px solid #999999;
+	padding-top:0.2em;
+}
+
+.contentActions li {
+	border-left:1px solid #999;
+
+}
+
+#content-section .actionMenu .actionMenuContent li a:hover {
+	background-color:#999;
+	color:#fff;
+
+}
+
+
+
+
+

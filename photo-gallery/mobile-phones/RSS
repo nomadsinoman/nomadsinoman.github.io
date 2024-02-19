@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/mobile-phones/RSS">
+  <title>mobile phones</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/signal-for-mobile-phone-on-top-of-truck"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/checking-mobile-phone-signal"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/anthropologist-and-healthworkers-vising-household-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/checking-mobile-phone-signal-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/getting-mobile-phone-signal"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_dc_017-jpg"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_dc_018-jpg"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/visiting-the-harasiis-december-2012/2012_haima_dc_0001-jpg"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/visiting-the-harasiis-december-2012/2012_haima_am_0002-jpg"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_am_021-jpg"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/celebration/2018_qarn_al-alam_jv_049-jpg"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/signal-for-mobile-phone-on-top-of-truck">
+    <title>Signal for mobile phone on top of truck</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/signal-for-mobile-phone-on-top-of-truck</link>
+    <description>Signal for mobile phone on top of truck</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/checking-mobile-phone-signal">
+    <title>Checking mobile phone signal</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/checking-mobile-phone-signal</link>
+    <description>Checking mobile phone signal</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:21Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/anthropologist-and-healthworkers-vising-household-1">
+    <title>Anthropologist and Healthworkers vising household</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/anthropologist-and-healthworkers-vising-household-1</link>
+    <description>Anthropologist and Healthworkers vising household</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>health workers</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:21Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/checking-mobile-phone-signal-1">
+    <title>Checking mobile phone signal</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/checking-mobile-phone-signal-1</link>
+    <description>Checking mobile phone signal</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:21Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal">
+    <title>Looking for mobile phone signal</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal</link>
+    <description>Looking for mobile phone signal</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:23Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-1">
+    <title>Looking for mobile phone signal</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-1</link>
+    <description>Looking for mobile phone signal</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:23Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-2">
+    <title>Looking for mobile phone signal</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-2</link>
+    <description>Looking for mobile phone signal</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-3">
+    <title>Looking for mobile phone signal</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/looking-for-mobile-phone-signal-3</link>
+    <description>Looking for mobile phone signal</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>fenced homes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>burqas (face masks)</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/getting-mobile-phone-signal">
+    <title>Getting mobile phone signal</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/getting-mobile-phone-signal</link>
+    <description>Getting mobile phone signal</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T15:00:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_dc_017-jpg">
+    <title>Checking SMS messages on a smart phone</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_dc_017-jpg</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Jaanika Vider</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>camel camps</dc:subject>
+    
+    <dc:date>2012-10-15T11:59:12Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_dc_018-jpg">
+    <title>Morning tea and coffee while checking mobile phone messages</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_dc_018-jpg</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Jaanika Vider</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>portable kitchen</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>camel camps</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    <dc:date>2012-10-15T11:59:30Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/visiting-the-harasiis-december-2012/2012_haima_dc_0001-jpg">
+    <title>Modern majlis (formal reception area) at Haima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/visiting-the-harasiis-december-2012/2012_haima_dc_0001-jpg</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Jaanika Vider</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>coffee</dc:subject>
+    
+    
+      <dc:subject>mussar</dc:subject>
+    
+    
+      <dc:subject>male turban</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>tea</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>tents</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>mobile A/Cs</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    <dc:date>2013-03-27T16:03:16Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/visiting-the-harasiis-december-2012/2012_haima_am_0002-jpg">
+    <title>Modern majlis (formal reception area) at Haima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/visiting-the-harasiis-december-2012/2012_haima_am_0002-jpg</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Jaanika Vider</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>coffee</dc:subject>
+    
+    
+      <dc:subject>mussar</dc:subject>
+    
+    
+      <dc:subject>male turban</dc:subject>
+    
+    
+      <dc:subject>BTS</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>mobile A/Cs</dc:subject>
+    
+    
+      <dc:subject>tents</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Behind the scenes</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2013-04-11T14:30:28Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_am_021-jpg">
+    <title>Campfire  with camel's milk and mobile smart  phone</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/herding-in-2012/2012_mukhaizana_am_021-jpg</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Jaanika Vider</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>camp fires</dc:subject>
+    
+    
+      <dc:subject>camel camps</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>milk</dc:subject>
+    
+    
+      <dc:subject>women</dc:subject>
+    
+    <dc:date>2012-10-14T21:19:37Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/celebration/2018_qarn_al-alam_jv_049-jpg">
+    <title>Transferring written Qasida of welcome across smart phones</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/celebration/2018_qarn_al-alam_jv_049-jpg</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>Jaanika Vider</dc:creator>
+    <dc:rights>Jaanika Vider</dc:rights>
+    
+      <dc:subject>coffee</dc:subject>
+    
+    
+      <dc:subject>azbah</dc:subject>
+    
+    
+      <dc:subject>mussar</dc:subject>
+    
+    
+      <dc:subject>male turban</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Food</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>dates</dc:subject>
+    
+    
+      <dc:subject>fabrics</dc:subject>
+    
+    
+      <dc:subject>anthropologists</dc:subject>
+    
+    
+      <dc:subject>mobile phones</dc:subject>
+    
+    
+      <dc:subject>Behind the scenes</dc:subject>
+    
+    
+      <dc:subject>temporary camp</dc:subject>
+    
+    
+      <dc:subject>Materials</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>boys</dc:subject>
+    
+    
+      <dc:subject>celebration</dc:subject>
+    
+    <dc:date>2018-07-27T10:43:35Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

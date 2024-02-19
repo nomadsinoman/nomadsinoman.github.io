@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/irrigation/RSS">
+  <title>irrigation</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rhodes-grass-and-central-pivot"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/foreign-labourers-at-experimental-farm"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-old-haima-well"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/aerial-views-of-households"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-6"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-7"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-8"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-9"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass">
+    <title>Rahab experimental farm growing Rhodes grass</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass</link>
+    <description>Rahab experimental farm growing Rhodes grass</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>grasses</dc:subject>
+    
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:08Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1">
+    <title>Rahab experimental farm growing Rhodes grass</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1</link>
+    <description>Rahab experimental farm growing Rhodes grass</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>grasses</dc:subject>
+    
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:08Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2">
+    <title>Rahab experimental farm growing Rhodes grass</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2</link>
+    <description>Rahab experimental farm growing Rhodes grass</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>grasses</dc:subject>
+    
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:08Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rhodes-grass-and-central-pivot">
+    <title>Rhodes grass and central pivot</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/rhodes-grass-and-central-pivot</link>
+    <description>Rhodes grass and central pivot</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>grasses</dc:subject>
+    
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:09Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm">
+    <title>Experimental farm</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm</link>
+    <description>Experimental farm</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>grasses</dc:subject>
+    
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:20Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-1">
+    <title>Experimental farm near Rima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-1</link>
+    <description>Experimental farm near Rima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-2">
+    <title>Experimental farm near Rima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-2</link>
+    <description>Experimental farm near Rima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-3">
+    <title>Experimental farm near Rima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-3</link>
+    <description>Experimental farm near Rima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/foreign-labourers-at-experimental-farm">
+    <title>Foreign labourers at experimental farm</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/foreign-labourers-at-experimental-farm</link>
+    <description>Foreign labourers at experimental farm</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>palms</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:27Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-old-haima-well">
+    <title>The old Haima well</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-old-haima-well</link>
+    <description>The old Haima well</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    
+      <dc:subject>wells</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:06Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/aerial-views-of-households">
+    <title>Aerial views of households</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/aerial-views-of-households</link>
+    <description>Aerial views of households</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:34Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-6">
+    <title>Experimental farm near Rima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-6</link>
+    <description>Experimental farm near Rima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:34Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-7">
+    <title>Experimental farm near Rima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-7</link>
+    <description>Experimental farm near Rima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>cement houses</dc:subject>
+    
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>palms</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    
+      <dc:subject>water bowsers</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:34Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-8">
+    <title>Experimental farm near Rima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-8</link>
+    <description>Experimental farm near Rima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>cement houses</dc:subject>
+    
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>palms</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:34Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-9">
+    <title>Experimental farm near Rima</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-9</link>
+    <description>Experimental farm near Rima</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>irrigation</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:36Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/schools/RSS">
+  <title>schools</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-school-1981"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-first-four-room-school-at-haima-in-walis"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-walis-office"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-school"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/building-the-dormitory-for-school-boys"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/building-the-dormitory-for-school-boys-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sudanese-teacher"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-local-governor-and-body-guards-visit-the"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/children-at-haima-school"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/egyptian-teacher-looking-over-the-boys-school-work"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/children-at-haima-school-1"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7">
+    <title>Haima tribal centre aerial shot 1981</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7</link>
+    <description>Haima tribal centre aerial shot 1981</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>base stations</dc:subject>
+    
+    
+      <dc:subject>government offices</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:00Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-school-1981">
+    <title>Haima school 1981</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-school-1981</link>
+    <description>Haima school 1981</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:02Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-first-four-room-school-at-haima-in-walis">
+    <title>The first four-room school at Haima in Wali's compound</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-first-four-room-school-at-haima-in-walis</link>
+    <description>The first four-room school at Haima in Wali's compound</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:02Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-walis-office">
+    <title>Haima Wali's office</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-walis-office</link>
+    <description>Haima Wali's office</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:03Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-school">
+    <title>Haima school</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-school</link>
+    <description>Haima school</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:03Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/building-the-dormitory-for-school-boys">
+    <title>Building the dormitory for school boys</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/building-the-dormitory-for-school-boys</link>
+    <description>Building the dormitory for school boys</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    
+      <dc:subject>trucks</dc:subject>
+    
+    
+      <dc:subject>Vehicles</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:23Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/building-the-dormitory-for-school-boys-1">
+    <title>Building the dormitory for school boys</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/building-the-dormitory-for-school-boys-1</link>
+    <description>Building the dormitory for school boys</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>grasses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>palms</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and">
+    <title>First year of Haima school co-educational and range of ages</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and</link>
+    <description>First year of Haima school co-educational and range of ages</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-1">
+    <title>First year of Haima school co-educational and range of ages</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-1</link>
+    <description>First year of Haima school co-educational and range of ages</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-2">
+    <title>First year of Haima school co-educational and range of ages</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-2</link>
+    <description>First year of Haima school co-educational and range of ages</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>children</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sudanese-teacher">
+    <title>Sudanese teacher</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sudanese-teacher</link>
+    <description>Sudanese teacher</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>boys</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-local-governor-and-body-guards-visit-the">
+    <title>The local governor and body guards visit the school class</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-local-governor-and-body-guards-visit-the</link>
+    <description>The local governor and body guards visit the school class</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>boys</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:24Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/children-at-haima-school">
+    <title>Children at Haima school</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/children-at-haima-school</link>
+    <description>Children at Haima school</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>boys</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:25Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/egyptian-teacher-looking-over-the-boys-school-work">
+    <title>Egyptian teacher looking over the boys' school work</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/egyptian-teacher-looking-over-the-boys-school-work</link>
+    <description>Egyptian teacher looking over the boys' school work</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>boys</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>men</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:25Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/children-at-haima-school-1">
+    <title>Children at Haima school</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/children-at-haima-school-1</link>
+    <description>Children at Haima school</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>boys</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>People</dc:subject>
+    
+    
+      <dc:subject>schools</dc:subject>
+    
+    
+      <dc:subject>Tribal Centres</dc:subject>
+    
+    <dc:date>2010-10-29T14:57:25Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

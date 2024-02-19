@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/birds/RSS">
+  <title>birds</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/birds-in-the-desert"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/flamingos-at-the-escarpment"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dunes-of-sahma-5"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-4"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-5"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-2"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/birds-in-the-desert">
+    <title>birds in the desert</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/birds-in-the-desert</link>
+    <description>birds in the desert</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:19Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/flamingos-at-the-escarpment">
+    <title>Flamingos at the escarpment</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/flamingos-at-the-escarpment</link>
+    <description>Flamingos at the escarpment</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>escarpment</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>trees</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:31Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dunes-of-sahma-5">
+    <title>Dunes of Sahma</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/dunes-of-sahma-5</link>
+    <description>Dunes of Sahma</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>dunes</dc:subject>
+    
+    
+      <dc:subject>grasses</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:39Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni">
+    <title>Sand grouse at Yalooni</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni</link>
+    <description>Sand grouse at Yalooni</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:47Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-1">
+    <title>Sand grouse at Yalooni</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-1</link>
+    <description>Sand grouse at Yalooni</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:47Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-2">
+    <title>Sand grouse at Yalooni</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-2</link>
+    <description>Sand grouse at Yalooni</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:47Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-3">
+    <title>Sand grouse at Yalooni</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-3</link>
+    <description>Sand grouse at Yalooni</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    
+      <dc:subject>Water</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:47Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-4">
+    <title>Sand grouse at Yalooni</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-4</link>
+    <description>Sand grouse at Yalooni</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:47Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-5">
+    <title>Sand grouse at Yalooni</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-5</link>
+    <description>Sand grouse at Yalooni</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>bushes</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>Plants</dc:subject>
+    
+    
+      <dc:subject>rock and gravel</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:47Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels">
+    <title>Enclosure for young camels</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels</link>
+    <description>Enclosure for young camels</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:52Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-1">
+    <title>Enclosure for young camels</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-1</link>
+    <description>Enclosure for young camels</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:52Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-2">
+    <title>Enclosure for young camels</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-2</link>
+    <description>Enclosure for young camels</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Animals</dc:subject>
+    
+    
+      <dc:subject>birds</dc:subject>
+    
+    
+      <dc:subject>camels</dc:subject>
+    
+    
+      <dc:subject>enclosed animals</dc:subject>
+    
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Landscapes</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>sand</dc:subject>
+    
+    
+      <dc:subject>Shelters</dc:subject>
+    
+    <dc:date>2010-10-29T14:59:52Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

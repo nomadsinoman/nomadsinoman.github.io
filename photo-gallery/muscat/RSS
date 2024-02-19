@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://www.nomadsinoman.com/photo-gallery/muscat/RSS">
+  <title>Muscat</title>
+  <link>http://www.nomadsinoman.com</link>
+
+  <description>
+    
+      
+    
+  </description>
+
+  
+
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2010-10-29T14:56:18Z</syn:updateBase>
+        
+
+  <image rdf:resource="http://www.nomadsinoman.com/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-1"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-3"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/merani-fort-in-muscat"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/alam-palace-in-muscat"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/main-gate-to-muscat"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/muscat-old-city"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/approach-to-muscat-city"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-sinbad-roundabout"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-al-bustan-hotel-in-muscat"/>
+      
+      
+        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/al-bustan-hotel"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour">
+    <title>Mutrah harbour</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour</link>
+    <description>Mutrah harbour</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:55Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-1">
+    <title>Mutrah harbour</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-1</link>
+    <description>Mutrah harbour</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:55Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-2">
+    <title>Mutrah harbour</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-2</link>
+    <description>Mutrah harbour</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:55Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-3">
+    <title>Mutrah harbour</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/mutrah-harbour-3</link>
+    <description>Mutrah harbour</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:55Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/merani-fort-in-muscat">
+    <title>Merani Fort in Muscat</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/merani-fort-in-muscat</link>
+    <description>Merani Fort in Muscat</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    
+      <dc:subject>portrait</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:55Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/alam-palace-in-muscat">
+    <title>Alam Palace in Muscat</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/alam-palace-in-muscat</link>
+    <description>Alam Palace in Muscat</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:55Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/main-gate-to-muscat">
+    <title>Main gate to Muscat</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/main-gate-to-muscat</link>
+    <description>Main gate to Muscat</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:56Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/muscat-old-city">
+    <title>Muscat old city</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/muscat-old-city</link>
+    <description>Muscat old city</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:56Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/approach-to-muscat-city">
+    <title>Approach to Muscat city</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/approach-to-muscat-city</link>
+    <description>Approach to Muscat city</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:56Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-sinbad-roundabout">
+    <title>The Sinbad roundabout</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-sinbad-roundabout</link>
+    <description>The Sinbad roundabout</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:56Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-al-bustan-hotel-in-muscat">
+    <title>The Al-Bustan Hotel in Muscat</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/the-al-bustan-hotel-in-muscat</link>
+    <description>The Al-Bustan Hotel in Muscat</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:56Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/al-bustan-hotel">
+    <title>Al-Bustan hotel</title>
+    <link>http://www.nomadsinoman.com/photo-gallery/images/al-bustan-hotel</link>
+    <description>Al-Bustan hotel</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator>admin</dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>landscape</dc:subject>
+    
+    
+      <dc:subject>Muscat</dc:subject>
+    
+    
+      <dc:subject>Orientation</dc:subject>
+    
+    <dc:date>2010-10-29T14:58:56Z</dc:date>
+    <dc:type>Image</dc:type>
+  </item>
+
+
+
+
+
+</rdf:RDF>

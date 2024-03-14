@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-perform-examinations"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-perform-examinations"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-talking-to-primary"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-talking-to-primary"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-6"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient-6"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-making-presentations"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-making-presentations-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-making-presentations-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-7"/>
+        <rdf:li rdf:resource="/photo-gallery/images/seventh-year-medical-students-examining-patient-7"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-perform-examinations">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-perform-examinations">
     <title>Seventh year medical students perform examinations</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-perform-examinations</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-perform-examinations</link>
     <description>Seventh year medical students perform examinations</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -148,9 +148,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -209,9 +209,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students">
     <title>Seventh year medical students</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students</link>
+    <link>/photo-gallery/images/seventh-year-medical-students</link>
     <description>Seventh year medical students</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -264,9 +264,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-1">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient-1">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-1</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient-1</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -310,9 +310,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-2">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient-2">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-2</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient-2</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -359,9 +359,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-3">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient-3">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-3</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient-3</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -411,9 +411,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-talking-to-primary">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-talking-to-primary">
     <title>Seventh year medical students talking to primary school students</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-talking-to-primary</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-talking-to-primary</link>
     <description>Seventh year medical students talking to primary school students</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -448,9 +448,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-4">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient-4">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-4</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient-4</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -491,9 +491,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-5">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient-5">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-5</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient-5</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -552,9 +552,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-6">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient-6">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-6</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient-6</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -607,9 +607,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-1">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-1">
     <title>Seventh year medical students</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-1</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-1</link>
     <description>Seventh year medical students</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -638,9 +638,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-making-presentations">
     <title>Seventh year medical students making presentations</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-making-presentations</link>
     <description>Seventh year medical students making presentations</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -672,9 +672,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-1">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-making-presentations-1">
     <title>Seventh year medical students making presentations</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-1</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-making-presentations-1</link>
     <description>Seventh year medical students making presentations</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -706,9 +706,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-2">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-making-presentations-2">
     <title>Seventh year medical students making presentations</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-making-presentations-2</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-making-presentations-2</link>
     <description>Seventh year medical students making presentations</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -734,9 +734,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-7">
+  <item rdf:about="/photo-gallery/images/seventh-year-medical-students-examining-patient-7">
     <title>Seventh year medical students examining patient</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/seventh-year-medical-students-examining-patient-7</link>
+    <link>/photo-gallery/images/seventh-year-medical-students-examining-patient-7</link>
     <description>Seventh year medical students examining patient</description>
     
     <dc:publisher>No publisher</dc:publisher>

@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dressed-for-a-wedding"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/woman-and-children-at-rima-immunization-programme"/>
+        <rdf:li rdf:resource="/photo-gallery/images/woman-and-children-at-rima-immunization-programme"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/itinerant-gold-dealer-visits-household"/>
+        <rdf:li rdf:resource="/photo-gallery/images/itinerant-gold-dealer-visits-household"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/a-break-during-the-immunization-programme"/>
+        <rdf:li rdf:resource="/photo-gallery/images/a-break-during-the-immunization-programme"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/admiring-the-newest-baby"/>
+        <rdf:li rdf:resource="/photo-gallery/images/admiring-the-newest-baby"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/returning-to-project-vehicle-after-an-interview"/>
+        <rdf:li rdf:resource="/photo-gallery/images/returning-to-project-vehicle-after-an-interview"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/discussing-immunization-progress"/>
+        <rdf:li rdf:resource="/photo-gallery/images/discussing-immunization-progress"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/har-rashid-children"/>
+        <rdf:li rdf:resource="/photo-gallery/images/har-rashid-children"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/uncle-with-neices-and-nephews"/>
+        <rdf:li rdf:resource="/photo-gallery/images/uncle-with-neices-and-nephews"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/uncle-with-neices-and-nephews-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/uncle-with-neices-and-nephews-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/temporary-shelters-near-haima"/>
+        <rdf:li rdf:resource="/photo-gallery/images/temporary-shelters-near-haima"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and"/>
+        <rdf:li rdf:resource="/photo-gallery/images/first-year-of-haima-school-co-educational-and"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/first-year-of-haima-school-co-educational-and-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/first-year-of-haima-school-co-educational-and-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/fenced-shelter-and-blankets-drying-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/fenced-shelter-and-blankets-drying-1"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding">
+  <item rdf:about="/photo-gallery/images/dressed-for-a-wedding">
     <title>Dressed for a wedding</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding</link>
+    <link>/photo-gallery/images/dressed-for-a-wedding</link>
     <description>Dressed for a wedding</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -124,9 +124,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/woman-and-children-at-rima-immunization-programme">
+  <item rdf:about="/photo-gallery/images/woman-and-children-at-rima-immunization-programme">
     <title>Woman and children at Rima immunization programme</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/woman-and-children-at-rima-immunization-programme</link>
+    <link>/photo-gallery/images/woman-and-children-at-rima-immunization-programme</link>
     <description>Woman and children at Rima immunization programme</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -197,9 +197,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/itinerant-gold-dealer-visits-household">
+  <item rdf:about="/photo-gallery/images/itinerant-gold-dealer-visits-household">
     <title>Itinerant gold dealer visits household</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/itinerant-gold-dealer-visits-household</link>
+    <link>/photo-gallery/images/itinerant-gold-dealer-visits-household</link>
     <description>Itinerant gold dealer visits household</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -267,9 +267,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/a-break-during-the-immunization-programme">
+  <item rdf:about="/photo-gallery/images/a-break-during-the-immunization-programme">
     <title>A break during the immunization programme</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/a-break-during-the-immunization-programme</link>
+    <link>/photo-gallery/images/a-break-during-the-immunization-programme</link>
     <description>A break during the immunization programme</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -319,9 +319,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/admiring-the-newest-baby">
+  <item rdf:about="/photo-gallery/images/admiring-the-newest-baby">
     <title>Admiring the newest baby</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/admiring-the-newest-baby</link>
+    <link>/photo-gallery/images/admiring-the-newest-baby</link>
     <description>Admiring the newest baby</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -374,9 +374,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/returning-to-project-vehicle-after-an-interview">
+  <item rdf:about="/photo-gallery/images/returning-to-project-vehicle-after-an-interview">
     <title>Returning to project vehicle after an interview</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/returning-to-project-vehicle-after-an-interview</link>
+    <link>/photo-gallery/images/returning-to-project-vehicle-after-an-interview</link>
     <description>Returning to project vehicle after an interview</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -423,9 +423,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/discussing-immunization-progress">
+  <item rdf:about="/photo-gallery/images/discussing-immunization-progress">
     <title>Discussing immunization progress</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/discussing-immunization-progress</link>
+    <link>/photo-gallery/images/discussing-immunization-progress</link>
     <description>Discussing immunization progress</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -460,9 +460,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/har-rashid-children">
+  <item rdf:about="/photo-gallery/images/har-rashid-children">
     <title>Har-Rashid children</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/har-rashid-children</link>
+    <link>/photo-gallery/images/har-rashid-children</link>
     <description>Har-Rashid children</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -509,9 +509,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/uncle-with-neices-and-nephews">
+  <item rdf:about="/photo-gallery/images/uncle-with-neices-and-nephews">
     <title>Uncle with neices and nephews</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/uncle-with-neices-and-nephews</link>
+    <link>/photo-gallery/images/uncle-with-neices-and-nephews</link>
     <description>Uncle with neices and nephews</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -567,9 +567,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/uncle-with-neices-and-nephews-1">
+  <item rdf:about="/photo-gallery/images/uncle-with-neices-and-nephews-1">
     <title>Uncle with neices and nephews</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/uncle-with-neices-and-nephews-1</link>
+    <link>/photo-gallery/images/uncle-with-neices-and-nephews-1</link>
     <description>Uncle with neices and nephews</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -628,9 +628,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/temporary-shelters-near-haima">
+  <item rdf:about="/photo-gallery/images/temporary-shelters-near-haima">
     <title>Temporary shelters near Haima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/temporary-shelters-near-haima</link>
+    <link>/photo-gallery/images/temporary-shelters-near-haima</link>
     <description>Temporary shelters near Haima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -671,9 +671,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and">
+  <item rdf:about="/photo-gallery/images/first-year-of-haima-school-co-educational-and">
     <title>First year of Haima school co-educational and range of ages</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and</link>
+    <link>/photo-gallery/images/first-year-of-haima-school-co-educational-and</link>
     <description>First year of Haima school co-educational and range of ages</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -705,9 +705,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-1">
+  <item rdf:about="/photo-gallery/images/first-year-of-haima-school-co-educational-and-1">
     <title>First year of Haima school co-educational and range of ages</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-1</link>
+    <link>/photo-gallery/images/first-year-of-haima-school-co-educational-and-1</link>
     <description>First year of Haima school co-educational and range of ages</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -736,9 +736,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-2">
+  <item rdf:about="/photo-gallery/images/first-year-of-haima-school-co-educational-and-2">
     <title>First year of Haima school co-educational and range of ages</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/first-year-of-haima-school-co-educational-and-2</link>
+    <link>/photo-gallery/images/first-year-of-haima-school-co-educational-and-2</link>
     <description>First year of Haima school co-educational and range of ages</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -767,9 +767,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/fenced-shelter-and-blankets-drying-1">
+  <item rdf:about="/photo-gallery/images/fenced-shelter-and-blankets-drying-1">
     <title>Fenced shelter and blankets drying</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/fenced-shelter-and-blankets-drying-1</link>
+    <link>/photo-gallery/images/fenced-shelter-and-blankets-drying-1</link>
     <description>Fenced shelter and blankets drying</description>
     
     <dc:publisher>No publisher</dc:publisher>

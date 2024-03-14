@@ -1251,3 +1251,6 @@ body.section-your-photos-lang-ar div#portal-column-content, body.section-your-ph
 	direction: ltr;
 }
 */
+
+/* Pagefind additional styles */
+mark {background-color: #f7cd9a !important;}

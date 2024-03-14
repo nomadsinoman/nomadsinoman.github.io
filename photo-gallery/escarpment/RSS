@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/looking-out-over-wadi-baw"/>
+        <rdf:li rdf:resource="/photo-gallery/images/looking-out-over-wadi-baw"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi"/>
+        <rdf:li rdf:resource="/photo-gallery/images/view-west-in-the-wadi"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dwarf-palm-in-wadi-baw"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dwarf-palm-in-wadi-baw-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/view-west-in-the-wadi-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/view-west-in-the-wadi-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/view-west-in-the-wadi-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dwarf-palm-in-wadi-baw-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/view-west-in-the-wadi-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi"/>
+        <rdf:li rdf:resource="/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw"/>
+        <rdf:li rdf:resource="/photo-gallery/images/burial-ground-at-wadi-baw"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/burial-ground-at-wadi-baw-1"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -136,9 +136,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -191,9 +191,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/looking-out-over-wadi-baw">
+  <item rdf:about="/photo-gallery/images/looking-out-over-wadi-baw">
     <title>Looking out over Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/looking-out-over-wadi-baw</link>
+    <link>/photo-gallery/images/looking-out-over-wadi-baw</link>
     <description>Looking out over Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -228,9 +228,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi">
+  <item rdf:about="/photo-gallery/images/view-west-in-the-wadi">
     <title>View west in the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi</link>
+    <link>/photo-gallery/images/view-west-in-the-wadi</link>
     <description>View west in the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -268,9 +268,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw">
+  <item rdf:about="/photo-gallery/images/dwarf-palm-in-wadi-baw">
     <title>Dwarf palm in Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw</link>
+    <link>/photo-gallery/images/dwarf-palm-in-wadi-baw</link>
     <description>Dwarf palm in Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -305,9 +305,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw-1">
+  <item rdf:about="/photo-gallery/images/dwarf-palm-in-wadi-baw-1">
     <title>Dwarf palm in Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw-1</link>
+    <link>/photo-gallery/images/dwarf-palm-in-wadi-baw-1</link>
     <description>Dwarf palm in Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -342,9 +342,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-1">
+  <item rdf:about="/photo-gallery/images/view-west-in-the-wadi-1">
     <title>View west in the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-1</link>
+    <link>/photo-gallery/images/view-west-in-the-wadi-1</link>
     <description>View west in the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -376,9 +376,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-2">
+  <item rdf:about="/photo-gallery/images/view-west-in-the-wadi-2">
     <title>View west in the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-2</link>
+    <link>/photo-gallery/images/view-west-in-the-wadi-2</link>
     <description>View west in the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -401,9 +401,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-3">
+  <item rdf:about="/photo-gallery/images/view-west-in-the-wadi-3">
     <title>View west in the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-3</link>
+    <link>/photo-gallery/images/view-west-in-the-wadi-3</link>
     <description>View west in the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -432,9 +432,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw-2">
+  <item rdf:about="/photo-gallery/images/dwarf-palm-in-wadi-baw-2">
     <title>Dwarf palm in Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dwarf-palm-in-wadi-baw-2</link>
+    <link>/photo-gallery/images/dwarf-palm-in-wadi-baw-2</link>
     <description>Dwarf palm in Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -469,9 +469,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-4">
+  <item rdf:about="/photo-gallery/images/view-west-in-the-wadi-4">
     <title>View west in the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-4</link>
+    <link>/photo-gallery/images/view-west-in-the-wadi-4</link>
     <description>View west in the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -500,9 +500,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi">
+  <item rdf:about="/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi">
     <title>Telling stories about the jinn inhabiting the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi</link>
+    <link>/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi</link>
     <description>Telling stories about the jinn inhabiting the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -534,9 +534,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi-1">
+  <item rdf:about="/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi-1">
     <title>Telling stories about the jinn inhabiting the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi-1</link>
+    <link>/photo-gallery/images/telling-stories-about-the-jinn-inhabiting-the-wadi-1</link>
     <description>Telling stories about the jinn inhabiting the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -565,9 +565,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw">
+  <item rdf:about="/photo-gallery/images/burial-ground-at-wadi-baw">
     <title>Burial ground at Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw</link>
+    <link>/photo-gallery/images/burial-ground-at-wadi-baw</link>
     <description>Burial ground at Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -599,9 +599,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-1">
+  <item rdf:about="/photo-gallery/images/burial-ground-at-wadi-baw-1">
     <title>Burial ground at Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-1</link>
+    <link>/photo-gallery/images/burial-ground-at-wadi-baw-1</link>
     <description>Burial ground at Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>

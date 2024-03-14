@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-in-enclosure"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-in-enclosure"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-in-enclosure-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-in-enclosure-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-enclosure"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-enclosure"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-enclosure-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-enclosure-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-6"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-6"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-7"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-7"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-8"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-8"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-9"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-9"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oryx-10"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oryx-10"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-in-enclosure">
+  <item rdf:about="/photo-gallery/images/oryx-in-enclosure">
     <title>Oryx in enclosure</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-in-enclosure</link>
+    <link>/photo-gallery/images/oryx-in-enclosure</link>
     <description>Oryx in enclosure</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -118,9 +118,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-in-enclosure-1">
+  <item rdf:about="/photo-gallery/images/oryx-in-enclosure-1">
     <title>Oryx in enclosure</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-in-enclosure-1</link>
+    <link>/photo-gallery/images/oryx-in-enclosure-1</link>
     <description>Oryx in enclosure</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -155,9 +155,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-enclosure">
+  <item rdf:about="/photo-gallery/images/oryx-enclosure">
     <title>Oryx enclosure</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-enclosure</link>
+    <link>/photo-gallery/images/oryx-enclosure</link>
     <description>Oryx enclosure</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -192,9 +192,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-enclosure-1">
+  <item rdf:about="/photo-gallery/images/oryx-enclosure-1">
     <title>Oryx enclosure</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-enclosure-1</link>
+    <link>/photo-gallery/images/oryx-enclosure-1</link>
     <description>Oryx enclosure</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -229,9 +229,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx">
+  <item rdf:about="/photo-gallery/images/oryx">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx</link>
+    <link>/photo-gallery/images/oryx</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -269,9 +269,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-1">
+  <item rdf:about="/photo-gallery/images/oryx-1">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-1</link>
+    <link>/photo-gallery/images/oryx-1</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -309,9 +309,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-2">
+  <item rdf:about="/photo-gallery/images/oryx-2">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-2</link>
+    <link>/photo-gallery/images/oryx-2</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -349,9 +349,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-3">
+  <item rdf:about="/photo-gallery/images/oryx-3">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-3</link>
+    <link>/photo-gallery/images/oryx-3</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -389,9 +389,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-4">
+  <item rdf:about="/photo-gallery/images/oryx-4">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-4</link>
+    <link>/photo-gallery/images/oryx-4</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -429,9 +429,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-5">
+  <item rdf:about="/photo-gallery/images/oryx-5">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-5</link>
+    <link>/photo-gallery/images/oryx-5</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -469,9 +469,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-6">
+  <item rdf:about="/photo-gallery/images/oryx-6">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-6</link>
+    <link>/photo-gallery/images/oryx-6</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -509,9 +509,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-7">
+  <item rdf:about="/photo-gallery/images/oryx-7">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-7</link>
+    <link>/photo-gallery/images/oryx-7</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -549,9 +549,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-8">
+  <item rdf:about="/photo-gallery/images/oryx-8">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-8</link>
+    <link>/photo-gallery/images/oryx-8</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -589,9 +589,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-9">
+  <item rdf:about="/photo-gallery/images/oryx-9">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-9</link>
+    <link>/photo-gallery/images/oryx-9</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -629,9 +629,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oryx-10">
+  <item rdf:about="/photo-gallery/images/oryx-10">
     <title>Oryx</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oryx-10</link>
+    <link>/photo-gallery/images/oryx-10</link>
     <description>Oryx</description>
     
     <dc:publisher>No publisher</dc:publisher>

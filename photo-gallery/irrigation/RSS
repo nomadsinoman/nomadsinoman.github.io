@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass"/>
+        <rdf:li rdf:resource="/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rhodes-grass-and-central-pivot"/>
+        <rdf:li rdf:resource="/photo-gallery/images/rhodes-grass-and-central-pivot"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm-near-rima-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm-near-rima-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm-near-rima-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/foreign-labourers-at-experimental-farm"/>
+        <rdf:li rdf:resource="/photo-gallery/images/foreign-labourers-at-experimental-farm"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-old-haima-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/the-old-haima-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/aerial-views-of-households"/>
+        <rdf:li rdf:resource="/photo-gallery/images/aerial-views-of-households"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-6"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm-near-rima-6"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-7"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm-near-rima-7"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-8"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm-near-rima-8"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-9"/>
+        <rdf:li rdf:resource="/photo-gallery/images/experimental-farm-near-rima-9"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass">
+  <item rdf:about="/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass">
     <title>Rahab experimental farm growing Rhodes grass</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass</link>
+    <link>/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass</link>
     <description>Rahab experimental farm growing Rhodes grass</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -112,9 +112,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1">
+  <item rdf:about="/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1">
     <title>Rahab experimental farm growing Rhodes grass</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1</link>
+    <link>/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-1</link>
     <description>Rahab experimental farm growing Rhodes grass</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -143,9 +143,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2">
+  <item rdf:about="/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2">
     <title>Rahab experimental farm growing Rhodes grass</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2</link>
+    <link>/photo-gallery/images/rahab-experimental-farm-growing-rhodes-grass-2</link>
     <description>Rahab experimental farm growing Rhodes grass</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -183,9 +183,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rhodes-grass-and-central-pivot">
+  <item rdf:about="/photo-gallery/images/rhodes-grass-and-central-pivot">
     <title>Rhodes grass and central pivot</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/rhodes-grass-and-central-pivot</link>
+    <link>/photo-gallery/images/rhodes-grass-and-central-pivot</link>
     <description>Rhodes grass and central pivot</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -214,9 +214,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm">
+  <item rdf:about="/photo-gallery/images/experimental-farm">
     <title>Experimental farm</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm</link>
+    <link>/photo-gallery/images/experimental-farm</link>
     <description>Experimental farm</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -245,9 +245,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-1">
+  <item rdf:about="/photo-gallery/images/experimental-farm-near-rima-1">
     <title>Experimental farm near Rima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-1</link>
+    <link>/photo-gallery/images/experimental-farm-near-rima-1</link>
     <description>Experimental farm near Rima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -273,9 +273,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-2">
+  <item rdf:about="/photo-gallery/images/experimental-farm-near-rima-2">
     <title>Experimental farm near Rima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-2</link>
+    <link>/photo-gallery/images/experimental-farm-near-rima-2</link>
     <description>Experimental farm near Rima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -301,9 +301,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-3">
+  <item rdf:about="/photo-gallery/images/experimental-farm-near-rima-3">
     <title>Experimental farm near Rima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-3</link>
+    <link>/photo-gallery/images/experimental-farm-near-rima-3</link>
     <description>Experimental farm near Rima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -329,9 +329,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/foreign-labourers-at-experimental-farm">
+  <item rdf:about="/photo-gallery/images/foreign-labourers-at-experimental-farm">
     <title>Foreign labourers at experimental farm</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/foreign-labourers-at-experimental-farm</link>
+    <link>/photo-gallery/images/foreign-labourers-at-experimental-farm</link>
     <description>Foreign labourers at experimental farm</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -366,9 +366,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-old-haima-well">
+  <item rdf:about="/photo-gallery/images/the-old-haima-well">
     <title>The old Haima well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/the-old-haima-well</link>
+    <link>/photo-gallery/images/the-old-haima-well</link>
     <description>The old Haima well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -394,9 +394,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/aerial-views-of-households">
+  <item rdf:about="/photo-gallery/images/aerial-views-of-households">
     <title>Aerial views of households</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/aerial-views-of-households</link>
+    <link>/photo-gallery/images/aerial-views-of-households</link>
     <description>Aerial views of households</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -425,9 +425,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-6">
+  <item rdf:about="/photo-gallery/images/experimental-farm-near-rima-6">
     <title>Experimental farm near Rima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-6</link>
+    <link>/photo-gallery/images/experimental-farm-near-rima-6</link>
     <description>Experimental farm near Rima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -450,9 +450,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-7">
+  <item rdf:about="/photo-gallery/images/experimental-farm-near-rima-7">
     <title>Experimental farm near Rima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-7</link>
+    <link>/photo-gallery/images/experimental-farm-near-rima-7</link>
     <description>Experimental farm near Rima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -496,9 +496,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-8">
+  <item rdf:about="/photo-gallery/images/experimental-farm-near-rima-8">
     <title>Experimental farm near Rima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-8</link>
+    <link>/photo-gallery/images/experimental-farm-near-rima-8</link>
     <description>Experimental farm near Rima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -539,9 +539,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-9">
+  <item rdf:about="/photo-gallery/images/experimental-farm-near-rima-9">
     <title>Experimental farm near Rima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/experimental-farm-near-rima-9</link>
+    <link>/photo-gallery/images/experimental-farm-near-rima-9</link>
     <description>Experimental farm near Rima</description>
     
     <dc:publisher>No publisher</dc:publisher>

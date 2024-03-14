@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dressed-for-a-wedding"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dressed-for-a-wedding-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market"/>
+        <rdf:li rdf:resource="/photo-gallery/images/nizwa-market"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio"/>
+        <rdf:li rdf:resource="/photo-gallery/images/setting-up-the-base-camp-hf-radio"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/setting-up-the-base-camp-hf-radio-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-break-at-the-base-camp"/>
+        <rdf:li rdf:resource="/photo-gallery/images/taking-a-break-at-the-base-camp"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break"/>
+        <rdf:li rdf:resource="/photo-gallery/images/taking-a-midday-break"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/taking-a-midday-break-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-tea-in-the-desert"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-to-set-up-camp-at-sunset"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-tea-in-the-evening"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fire-at-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fire-at-camp-site-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-at-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jalmud-well"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding">
+  <item rdf:about="/photo-gallery/images/dressed-for-a-wedding">
     <title>Dressed for a wedding</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding</link>
+    <link>/photo-gallery/images/dressed-for-a-wedding</link>
     <description>Dressed for a wedding</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -124,9 +124,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1">
+  <item rdf:about="/photo-gallery/images/dressed-for-a-wedding-1">
     <title>Dressed for a wedding</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1</link>
+    <link>/photo-gallery/images/dressed-for-a-wedding-1</link>
     <description>Dressed for a wedding</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -173,9 +173,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market">
+  <item rdf:about="/photo-gallery/images/nizwa-market">
     <title>Nizwa market</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/nizwa-market</link>
+    <link>/photo-gallery/images/nizwa-market</link>
     <description>Nizwa market</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -207,9 +207,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio">
+  <item rdf:about="/photo-gallery/images/setting-up-the-base-camp-hf-radio">
     <title>Setting up the base camp HF radio</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio</link>
+    <link>/photo-gallery/images/setting-up-the-base-camp-hf-radio</link>
     <description>Setting up the base camp HF radio</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -235,9 +235,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio-1">
+  <item rdf:about="/photo-gallery/images/setting-up-the-base-camp-hf-radio-1">
     <title>Setting up the base camp HF radio</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/setting-up-the-base-camp-hf-radio-1</link>
+    <link>/photo-gallery/images/setting-up-the-base-camp-hf-radio-1</link>
     <description>Setting up the base camp HF radio</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -263,9 +263,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-break-at-the-base-camp">
+  <item rdf:about="/photo-gallery/images/taking-a-break-at-the-base-camp">
     <title>Taking a break at the base camp</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-break-at-the-base-camp</link>
+    <link>/photo-gallery/images/taking-a-break-at-the-base-camp</link>
     <description>Taking a break at the base camp</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -291,9 +291,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break">
+  <item rdf:about="/photo-gallery/images/taking-a-midday-break">
     <title>Taking a midday break</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break</link>
+    <link>/photo-gallery/images/taking-a-midday-break</link>
     <description>Taking a midday break</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -328,9 +328,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1">
+  <item rdf:about="/photo-gallery/images/taking-a-midday-break-1">
     <title>Taking a midday break</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1</link>
+    <link>/photo-gallery/images/taking-a-midday-break-1</link>
     <description>Taking a midday break</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -371,9 +371,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert">
+  <item rdf:about="/photo-gallery/images/morning-tea-in-the-desert">
     <title>Morning tea in the desert</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert</link>
+    <link>/photo-gallery/images/morning-tea-in-the-desert</link>
     <description>Morning tea in the desert</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -423,9 +423,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset">
+  <item rdf:about="/photo-gallery/images/preparing-to-set-up-camp-at-sunset">
     <title>Preparing to set up camp at sunset</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset</link>
+    <link>/photo-gallery/images/preparing-to-set-up-camp-at-sunset</link>
     <description>Preparing to set up camp at sunset</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -466,9 +466,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening">
+  <item rdf:about="/photo-gallery/images/preparing-tea-in-the-evening">
     <title>Preparing tea in the evening</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening</link>
+    <link>/photo-gallery/images/preparing-tea-in-the-evening</link>
     <description>Preparing tea in the evening</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -518,9 +518,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site">
+  <item rdf:about="/photo-gallery/images/morning-fire-at-camp-site">
     <title>Morning fire at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site</link>
+    <link>/photo-gallery/images/morning-fire-at-camp-site</link>
     <description>Morning fire at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -585,9 +585,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1">
+  <item rdf:about="/photo-gallery/images/morning-fire-at-camp-site-1">
     <title>Morning fire at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1</link>
+    <link>/photo-gallery/images/morning-fire-at-camp-site-1</link>
     <description>Morning fire at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -634,9 +634,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site">
+  <item rdf:about="/photo-gallery/images/morning-at-camp-site">
     <title>Morning at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site</link>
+    <link>/photo-gallery/images/morning-at-camp-site</link>
     <description>Morning at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -677,9 +677,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well">
+  <item rdf:about="/photo-gallery/images/jalmud-well">
     <title>Jalmud well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jalmud-well</link>
+    <link>/photo-gallery/images/jalmud-well</link>
     <description>Jalmud well</description>
     
     <dc:publisher>No publisher</dc:publisher>

@@ -31,22 +31,22 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-with-gas-bottle"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-with-gas-bottle"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/health-workers-at-bahja-oil-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/health-workers-at-bahja-oil-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/health-workers-at-bahja-oil-camp-site-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/health-workers-at-bahja-oil-camp-site-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/anthropologists-at-bahja-oil-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/anthropologists-at-bahja-oil-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bahja-oil-camp"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bahja-oil-camp"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bahja-oil-camp-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bahja-oil-camp-1"/>
       
     </rdf:Seq>
   </items>
@@ -54,9 +54,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-with-gas-bottle">
+  <item rdf:about="/photo-gallery/images/tree-shelter-with-gas-bottle">
     <title>Tree shelter with gas bottle</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-with-gas-bottle</link>
+    <link>/photo-gallery/images/tree-shelter-with-gas-bottle</link>
     <description>Tree shelter with gas bottle</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -130,9 +130,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/health-workers-at-bahja-oil-camp-site">
+  <item rdf:about="/photo-gallery/images/health-workers-at-bahja-oil-camp-site">
     <title>Health workers at Bahja oil camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/health-workers-at-bahja-oil-camp-site</link>
+    <link>/photo-gallery/images/health-workers-at-bahja-oil-camp-site</link>
     <description>Health workers at Bahja oil camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -170,9 +170,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/health-workers-at-bahja-oil-camp-site-1">
+  <item rdf:about="/photo-gallery/images/health-workers-at-bahja-oil-camp-site-1">
     <title>Health workers at Bahja oil camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/health-workers-at-bahja-oil-camp-site-1</link>
+    <link>/photo-gallery/images/health-workers-at-bahja-oil-camp-site-1</link>
     <description>Health workers at Bahja oil camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -213,9 +213,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/anthropologists-at-bahja-oil-camp-site">
+  <item rdf:about="/photo-gallery/images/anthropologists-at-bahja-oil-camp-site">
     <title>Anthropologists at Bahja oil camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/anthropologists-at-bahja-oil-camp-site</link>
+    <link>/photo-gallery/images/anthropologists-at-bahja-oil-camp-site</link>
     <description>Anthropologists at Bahja oil camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -259,9 +259,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bahja-oil-camp">
+  <item rdf:about="/photo-gallery/images/bahja-oil-camp">
     <title>Bahja oil camp</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bahja-oil-camp</link>
+    <link>/photo-gallery/images/bahja-oil-camp</link>
     <description>Bahja oil camp</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -296,9 +296,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bahja-oil-camp-1">
+  <item rdf:about="/photo-gallery/images/bahja-oil-camp-1">
     <title>Bahja oil camp</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bahja-oil-camp-1</link>
+    <link>/photo-gallery/images/bahja-oil-camp-1</link>
     <description>Bahja oil camp</description>
     
     <dc:publisher>No publisher</dc:publisher>

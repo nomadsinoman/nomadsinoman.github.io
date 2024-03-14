@@ -31,22 +31,22 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/making-bread"/>
+        <rdf:li rdf:resource="/photo-gallery/images/making-bread"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-bread"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-bread"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/making-bread-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/making-bread-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/making-bread-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/making-bread-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/making-bread-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/making-bread-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/making-bread-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/making-bread-5"/>
       
     </rdf:Seq>
   </items>
@@ -54,9 +54,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/making-bread">
+  <item rdf:about="/photo-gallery/images/making-bread">
     <title>Making bread</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/making-bread</link>
+    <link>/photo-gallery/images/making-bread</link>
     <description>Making bread</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -97,9 +97,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-bread">
+  <item rdf:about="/photo-gallery/images/preparing-bread">
     <title>Preparing bread</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-bread</link>
+    <link>/photo-gallery/images/preparing-bread</link>
     <description>Preparing bread</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -137,9 +137,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/making-bread-2">
+  <item rdf:about="/photo-gallery/images/making-bread-2">
     <title>Making bread</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/making-bread-2</link>
+    <link>/photo-gallery/images/making-bread-2</link>
     <description>Making bread</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -168,9 +168,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/making-bread-3">
+  <item rdf:about="/photo-gallery/images/making-bread-3">
     <title>Making bread</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/making-bread-3</link>
+    <link>/photo-gallery/images/making-bread-3</link>
     <description>Making bread</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -205,9 +205,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/making-bread-4">
+  <item rdf:about="/photo-gallery/images/making-bread-4">
     <title>Making bread</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/making-bread-4</link>
+    <link>/photo-gallery/images/making-bread-4</link>
     <description>Making bread</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -236,9 +236,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/making-bread-5">
+  <item rdf:about="/photo-gallery/images/making-bread-5">
     <title>Making bread</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/making-bread-5</link>
+    <link>/photo-gallery/images/making-bread-5</link>
     <description>Making bread</description>
     
     <dc:publisher>No publisher</dc:publisher>

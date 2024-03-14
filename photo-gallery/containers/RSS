@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/family-portrait"/>
+        <rdf:li rdf:resource="/photo-gallery/images/family-portrait"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/family-portrait-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/family-portrait-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-breakfast-tea"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-breakfast-tea"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-breakfast-tea-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-breakfast-tea-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-mobile-storage"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-mobile-storage"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-mobile-storage-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-mobile-storage-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mother-and-children-at-rima-immunization-programme"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mother-and-children-at-rima-immunization-programme-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mother-and-children-at-rima-immunization-programme-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/british-midwife-srn-administering-immunization"/>
+        <rdf:li rdf:resource="/photo-gallery/images/british-midwife-srn-administering-immunization"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/british-midwife-srn-administering-immunization-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/british-midwife-srn-administering-immunization-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/making-fermented-milk-by-shaking-a-goats-skin-bag"/>
+        <rdf:li rdf:resource="/photo-gallery/images/making-fermented-milk-by-shaking-a-goats-skin-bag"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mother-and-son"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mother-and-son"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/father-and-son-serving-tea-coffee-and-dates"/>
+        <rdf:li rdf:resource="/photo-gallery/images/father-and-son-serving-tea-coffee-and-dates"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-camp-in-wadi-thayfut"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-camp-in-wadi-thayfut"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/family-portrait">
+  <item rdf:about="/photo-gallery/images/family-portrait">
     <title>Family portrait</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/family-portrait</link>
+    <link>/photo-gallery/images/family-portrait</link>
     <description>Family portrait</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -157,9 +157,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/family-portrait-1">
+  <item rdf:about="/photo-gallery/images/family-portrait-1">
     <title>Family portrait</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/family-portrait-1</link>
+    <link>/photo-gallery/images/family-portrait-1</link>
     <description>Family portrait</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -233,9 +233,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-breakfast-tea">
+  <item rdf:about="/photo-gallery/images/preparing-breakfast-tea">
     <title>Preparing breakfast tea</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-breakfast-tea</link>
+    <link>/photo-gallery/images/preparing-breakfast-tea</link>
     <description>Preparing breakfast tea</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -297,9 +297,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-breakfast-tea-1">
+  <item rdf:about="/photo-gallery/images/preparing-breakfast-tea-1">
     <title>Preparing breakfast tea</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-breakfast-tea-1</link>
+    <link>/photo-gallery/images/preparing-breakfast-tea-1</link>
     <description>Preparing breakfast tea</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -361,9 +361,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-mobile-storage">
+  <item rdf:about="/photo-gallery/images/household-mobile-storage">
     <title>Household mobile storage</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-mobile-storage</link>
+    <link>/photo-gallery/images/household-mobile-storage</link>
     <description>Household mobile storage</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -410,9 +410,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-mobile-storage-1">
+  <item rdf:about="/photo-gallery/images/household-mobile-storage-1">
     <title>Household mobile storage</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-mobile-storage-1</link>
+    <link>/photo-gallery/images/household-mobile-storage-1</link>
     <description>Household mobile storage</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -453,9 +453,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme">
+  <item rdf:about="/photo-gallery/images/mother-and-children-at-rima-immunization-programme">
     <title>Mother and children at Rima immunization programme</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme</link>
+    <link>/photo-gallery/images/mother-and-children-at-rima-immunization-programme</link>
     <description>Mother and children at Rima immunization programme</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -502,9 +502,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme-1">
+  <item rdf:about="/photo-gallery/images/mother-and-children-at-rima-immunization-programme-1">
     <title>Mother and children at Rima immunization programme</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme-1</link>
+    <link>/photo-gallery/images/mother-and-children-at-rima-immunization-programme-1</link>
     <description>Mother and children at Rima immunization programme</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -551,9 +551,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme-2">
+  <item rdf:about="/photo-gallery/images/mother-and-children-at-rima-immunization-programme-2">
     <title>Mother and children at Rima immunization programme</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mother-and-children-at-rima-immunization-programme-2</link>
+    <link>/photo-gallery/images/mother-and-children-at-rima-immunization-programme-2</link>
     <description>Mother and children at Rima immunization programme</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -612,9 +612,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/british-midwife-srn-administering-immunization">
+  <item rdf:about="/photo-gallery/images/british-midwife-srn-administering-immunization">
     <title>British midwife/SRN administering immunization injection</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/british-midwife-srn-administering-immunization</link>
+    <link>/photo-gallery/images/british-midwife-srn-administering-immunization</link>
     <description>British midwife/SRN administering immunization injection</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -679,9 +679,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/british-midwife-srn-administering-immunization-1">
+  <item rdf:about="/photo-gallery/images/british-midwife-srn-administering-immunization-1">
     <title>British midwife/SRN administering immunization injection</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/british-midwife-srn-administering-immunization-1</link>
+    <link>/photo-gallery/images/british-midwife-srn-administering-immunization-1</link>
     <description>British midwife/SRN administering immunization injection</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -746,9 +746,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/making-fermented-milk-by-shaking-a-goats-skin-bag">
+  <item rdf:about="/photo-gallery/images/making-fermented-milk-by-shaking-a-goats-skin-bag">
     <title>Making fermented milk by shaking a goats skin bag</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/making-fermented-milk-by-shaking-a-goats-skin-bag</link>
+    <link>/photo-gallery/images/making-fermented-milk-by-shaking-a-goats-skin-bag</link>
     <description>Making fermented milk by shaking a goats skin bag</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -807,9 +807,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mother-and-son">
+  <item rdf:about="/photo-gallery/images/mother-and-son">
     <title>Mother and son</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mother-and-son</link>
+    <link>/photo-gallery/images/mother-and-son</link>
     <description>Mother and son</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -868,9 +868,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/father-and-son-serving-tea-coffee-and-dates">
+  <item rdf:about="/photo-gallery/images/father-and-son-serving-tea-coffee-and-dates">
     <title>Father and son serving tea, coffee and dates</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/father-and-son-serving-tea-coffee-and-dates</link>
+    <link>/photo-gallery/images/father-and-son-serving-tea-coffee-and-dates</link>
     <description>Father and son serving tea, coffee and dates</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -923,9 +923,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-camp-in-wadi-thayfut">
+  <item rdf:about="/photo-gallery/images/household-camp-in-wadi-thayfut">
     <title>Household camp in Wadi Thayfut</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-camp-in-wadi-thayfut</link>
+    <link>/photo-gallery/images/household-camp-in-wadi-thayfut</link>
     <description>Household camp in Wadi Thayfut</description>
     
     <dc:publisher>No publisher</dc:publisher>

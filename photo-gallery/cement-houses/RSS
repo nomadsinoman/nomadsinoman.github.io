@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jereba-cement-house"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jereba-cement-house"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jereba-cement-house-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jereba-cement-house-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jereba-house"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jereba-house"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bringing-in-the-tuna-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mughshin-tribal-centre"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mughshin-tribal-centre-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mughshin-tribal-centre-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mughshin-tribal-centre-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mughshin-tribal-centre-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-cement-house-in-wadi-thayfut"/>
+        <rdf:li rdf:resource="/photo-gallery/images/first-cement-house-in-wadi-thayfut"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/first-cement-house-in-wadi-thayfut-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/first-cement-house-in-wadi-thayfut-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-compund-in-wadi-aswad"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/woman-and-daughter-in-wadi-aswad"/>
+        <rdf:li rdf:resource="/photo-gallery/images/woman-and-daughter-in-wadi-aswad"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-compund-in-wadi-aswad-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-compund-in-wadi-aswad-3"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jereba-cement-house">
+  <item rdf:about="/photo-gallery/images/jereba-cement-house">
     <title>Jereba cement house</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jereba-cement-house</link>
+    <link>/photo-gallery/images/jereba-cement-house</link>
     <description>Jereba cement house</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -118,9 +118,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jereba-cement-house-1">
+  <item rdf:about="/photo-gallery/images/jereba-cement-house-1">
     <title>Jereba cement house</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jereba-cement-house-1</link>
+    <link>/photo-gallery/images/jereba-cement-house-1</link>
     <description>Jereba cement house</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -155,9 +155,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jereba-house">
+  <item rdf:about="/photo-gallery/images/jereba-house">
     <title>Jereba house</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jereba-house</link>
+    <link>/photo-gallery/images/jereba-house</link>
     <description>Jereba house</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -192,9 +192,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-1">
+  <item rdf:about="/photo-gallery/images/bringing-in-the-tuna-1">
     <title>Bringing in the tuna</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-1</link>
+    <link>/photo-gallery/images/bringing-in-the-tuna-1</link>
     <description>Bringing in the tuna</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -226,9 +226,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre">
+  <item rdf:about="/photo-gallery/images/mughshin-tribal-centre">
     <title>Mughshin Tribal Centre</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre</link>
+    <link>/photo-gallery/images/mughshin-tribal-centre</link>
     <description>Mughshin Tribal Centre</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -251,9 +251,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-1">
+  <item rdf:about="/photo-gallery/images/mughshin-tribal-centre-1">
     <title>Mughshin Tribal Centre</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-1</link>
+    <link>/photo-gallery/images/mughshin-tribal-centre-1</link>
     <description>Mughshin Tribal Centre</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -276,9 +276,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-2">
+  <item rdf:about="/photo-gallery/images/mughshin-tribal-centre-2">
     <title>Mughshin Tribal Centre</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-2</link>
+    <link>/photo-gallery/images/mughshin-tribal-centre-2</link>
     <description>Mughshin Tribal Centre</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -301,9 +301,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-3">
+  <item rdf:about="/photo-gallery/images/mughshin-tribal-centre-3">
     <title>Mughshin Tribal Centre</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-3</link>
+    <link>/photo-gallery/images/mughshin-tribal-centre-3</link>
     <description>Mughshin Tribal Centre</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -326,9 +326,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-4">
+  <item rdf:about="/photo-gallery/images/mughshin-tribal-centre-4">
     <title>Mughshin Tribal Centre</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mughshin-tribal-centre-4</link>
+    <link>/photo-gallery/images/mughshin-tribal-centre-4</link>
     <description>Mughshin Tribal Centre</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -351,9 +351,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-cement-house-in-wadi-thayfut">
+  <item rdf:about="/photo-gallery/images/first-cement-house-in-wadi-thayfut">
     <title>First cement house in Wadi Thayfut</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/first-cement-house-in-wadi-thayfut</link>
+    <link>/photo-gallery/images/first-cement-house-in-wadi-thayfut</link>
     <description>First cement house in Wadi Thayfut</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -376,9 +376,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/first-cement-house-in-wadi-thayfut-1">
+  <item rdf:about="/photo-gallery/images/first-cement-house-in-wadi-thayfut-1">
     <title>First cement house in Wadi Thayfut</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/first-cement-house-in-wadi-thayfut-1</link>
+    <link>/photo-gallery/images/first-cement-house-in-wadi-thayfut-1</link>
     <description>First cement house in Wadi Thayfut</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -401,9 +401,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad">
+  <item rdf:about="/photo-gallery/images/household-compund-in-wadi-aswad">
     <title>Household compund in Wadi Aswad</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad</link>
+    <link>/photo-gallery/images/household-compund-in-wadi-aswad</link>
     <description>Household compund in Wadi Aswad</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -453,9 +453,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/woman-and-daughter-in-wadi-aswad">
+  <item rdf:about="/photo-gallery/images/woman-and-daughter-in-wadi-aswad">
     <title>Woman and daughter in Wadi Aswad</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/woman-and-daughter-in-wadi-aswad</link>
+    <link>/photo-gallery/images/woman-and-daughter-in-wadi-aswad</link>
     <description>Woman and daughter in Wadi Aswad</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -514,9 +514,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad-2">
+  <item rdf:about="/photo-gallery/images/household-compund-in-wadi-aswad-2">
     <title>Household compund in Wadi Aswad</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad-2</link>
+    <link>/photo-gallery/images/household-compund-in-wadi-aswad-2</link>
     <description>Household compund in Wadi Aswad</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -557,9 +557,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad-3">
+  <item rdf:about="/photo-gallery/images/household-compund-in-wadi-aswad-3">
     <title>Household compund in Wadi Aswad</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-compund-in-wadi-aswad-3</link>
+    <link>/photo-gallery/images/household-compund-in-wadi-aswad-3</link>
     <description>Household compund in Wadi Aswad</description>
     
     <dc:publisher>No publisher</dc:publisher>

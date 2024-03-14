@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/oasis-in-jebel-akhdar"/>
+        <rdf:li rdf:resource="/photo-gallery/images/oasis-in-jebel-akhdar"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-tea-in-the-desert"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-to-set-up-camp-at-sunset"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-tea-in-the-evening"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fire-at-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fire-at-camp-site-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-at-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jalmud-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jalmud-water-trough"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jalmud-water-trough"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/exploring-water-storage-tanks"/>
+        <rdf:li rdf:resource="/photo-gallery/images/exploring-water-storage-tanks"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam"/>
+        <rdf:li rdf:resource="/photo-gallery/images/family-camp-at-wadi-haytam"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/looking-out-over-wadi-baw"/>
+        <rdf:li rdf:resource="/photo-gallery/images/looking-out-over-wadi-baw"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/oasis-in-jebel-akhdar">
+  <item rdf:about="/photo-gallery/images/oasis-in-jebel-akhdar">
     <title>Oasis in Jebel Akhdar</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/oasis-in-jebel-akhdar</link>
+    <link>/photo-gallery/images/oasis-in-jebel-akhdar</link>
     <description>Oasis in Jebel Akhdar</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -103,9 +103,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert">
+  <item rdf:about="/photo-gallery/images/morning-tea-in-the-desert">
     <title>Morning tea in the desert</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert</link>
+    <link>/photo-gallery/images/morning-tea-in-the-desert</link>
     <description>Morning tea in the desert</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -155,9 +155,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset">
+  <item rdf:about="/photo-gallery/images/preparing-to-set-up-camp-at-sunset">
     <title>Preparing to set up camp at sunset</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-to-set-up-camp-at-sunset</link>
+    <link>/photo-gallery/images/preparing-to-set-up-camp-at-sunset</link>
     <description>Preparing to set up camp at sunset</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -198,9 +198,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening">
+  <item rdf:about="/photo-gallery/images/preparing-tea-in-the-evening">
     <title>Preparing tea in the evening</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening</link>
+    <link>/photo-gallery/images/preparing-tea-in-the-evening</link>
     <description>Preparing tea in the evening</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -250,9 +250,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site">
+  <item rdf:about="/photo-gallery/images/morning-fire-at-camp-site">
     <title>Morning fire at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site</link>
+    <link>/photo-gallery/images/morning-fire-at-camp-site</link>
     <description>Morning fire at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -317,9 +317,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1">
+  <item rdf:about="/photo-gallery/images/morning-fire-at-camp-site-1">
     <title>Morning fire at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1</link>
+    <link>/photo-gallery/images/morning-fire-at-camp-site-1</link>
     <description>Morning fire at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -366,9 +366,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site">
+  <item rdf:about="/photo-gallery/images/morning-at-camp-site">
     <title>Morning at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site</link>
+    <link>/photo-gallery/images/morning-at-camp-site</link>
     <description>Morning at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -409,9 +409,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well">
+  <item rdf:about="/photo-gallery/images/jalmud-well">
     <title>Jalmud well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jalmud-well</link>
+    <link>/photo-gallery/images/jalmud-well</link>
     <description>Jalmud well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -455,9 +455,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -510,9 +510,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -565,9 +565,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jalmud-water-trough">
+  <item rdf:about="/photo-gallery/images/jalmud-water-trough">
     <title>Jalmud water trough</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jalmud-water-trough</link>
+    <link>/photo-gallery/images/jalmud-water-trough</link>
     <description>Jalmud water trough</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -626,9 +626,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/exploring-water-storage-tanks">
+  <item rdf:about="/photo-gallery/images/exploring-water-storage-tanks">
     <title>Exploring water storage tanks</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/exploring-water-storage-tanks</link>
+    <link>/photo-gallery/images/exploring-water-storage-tanks</link>
     <description>Exploring water storage tanks</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -663,9 +663,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam">
+  <item rdf:about="/photo-gallery/images/family-camp-at-wadi-haytam">
     <title>Family camp at Wadi Haytam</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam</link>
+    <link>/photo-gallery/images/family-camp-at-wadi-haytam</link>
     <description>Family camp at Wadi Haytam</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -724,9 +724,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/looking-out-over-wadi-baw">
+  <item rdf:about="/photo-gallery/images/looking-out-over-wadi-baw">
     <title>Looking out over Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/looking-out-over-wadi-baw</link>
+    <link>/photo-gallery/images/looking-out-over-wadi-baw</link>
     <description>Looking out over Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -761,9 +761,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>

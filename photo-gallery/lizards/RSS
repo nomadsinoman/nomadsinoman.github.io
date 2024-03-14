@@ -31,16 +31,16 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/local-lizard-on-display"/>
+        <rdf:li rdf:resource="/photo-gallery/images/local-lizard-on-display"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/desert-lizard"/>
+        <rdf:li rdf:resource="/photo-gallery/images/desert-lizard"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/desert-lizard-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/desert-lizard-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/lizard"/>
+        <rdf:li rdf:resource="/photo-gallery/images/lizard"/>
       
     </rdf:Seq>
   </items>
@@ -48,9 +48,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/local-lizard-on-display">
+  <item rdf:about="/photo-gallery/images/local-lizard-on-display">
     <title>Local lizard on display</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/local-lizard-on-display</link>
+    <link>/photo-gallery/images/local-lizard-on-display</link>
     <description>Local lizard on display</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -85,9 +85,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/desert-lizard">
+  <item rdf:about="/photo-gallery/images/desert-lizard">
     <title>Desert lizard</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/desert-lizard</link>
+    <link>/photo-gallery/images/desert-lizard</link>
     <description>Desert lizard</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -116,9 +116,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/desert-lizard-1">
+  <item rdf:about="/photo-gallery/images/desert-lizard-1">
     <title>Desert lizard</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/desert-lizard-1</link>
+    <link>/photo-gallery/images/desert-lizard-1</link>
     <description>Desert lizard</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -147,9 +147,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/lizard">
+  <item rdf:about="/photo-gallery/images/lizard">
     <title>Lizard</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/lizard</link>
+    <link>/photo-gallery/images/lizard</link>
     <description>Lizard</description>
     
     <dc:publisher>No publisher</dc:publisher>

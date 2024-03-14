@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dressed-for-a-wedding"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dressed-for-a-wedding-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-tea-in-the-desert"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fire-at-camp-site-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-at-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-6"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-6"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-8"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-8"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-9"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-9"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding">
+  <item rdf:about="/photo-gallery/images/dressed-for-a-wedding">
     <title>Dressed for a wedding</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding</link>
+    <link>/photo-gallery/images/dressed-for-a-wedding</link>
     <description>Dressed for a wedding</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -124,9 +124,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1">
+  <item rdf:about="/photo-gallery/images/dressed-for-a-wedding-1">
     <title>Dressed for a wedding</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1</link>
+    <link>/photo-gallery/images/dressed-for-a-wedding-1</link>
     <description>Dressed for a wedding</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -173,9 +173,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert">
+  <item rdf:about="/photo-gallery/images/morning-tea-in-the-desert">
     <title>Morning tea in the desert</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert</link>
+    <link>/photo-gallery/images/morning-tea-in-the-desert</link>
     <description>Morning tea in the desert</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -225,9 +225,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1">
+  <item rdf:about="/photo-gallery/images/morning-fire-at-camp-site-1">
     <title>Morning fire at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site-1</link>
+    <link>/photo-gallery/images/morning-fire-at-camp-site-1</link>
     <description>Morning fire at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -274,9 +274,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site">
+  <item rdf:about="/photo-gallery/images/morning-at-camp-site">
     <title>Morning at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-at-camp-site</link>
+    <link>/photo-gallery/images/morning-at-camp-site</link>
     <description>Morning at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -317,9 +317,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -354,9 +354,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-1">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-1">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-1</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-1</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -385,9 +385,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-2">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-2">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-2</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-2</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -416,9 +416,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-3">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-3">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-3</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-3</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -447,9 +447,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-4">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-4">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-4</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-4</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -478,9 +478,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-5">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-5">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-5</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-5</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -509,9 +509,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-6">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-6">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-6</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-6</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -540,9 +540,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-7</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -577,9 +577,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-8">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-8">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-8</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-8</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -608,9 +608,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-9">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-9">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-9</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981-9</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>

@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-camp-in-wadi-thayfut"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-camp-in-wadi-thayfut"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/brothers-and-sons-having-breakfast-before"/>
+        <rdf:li rdf:resource="/photo-gallery/images/brothers-and-sons-having-breakfast-before"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/father-and-children-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/father-and-children-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/admiring-the-newest-baby"/>
+        <rdf:li rdf:resource="/photo-gallery/images/admiring-the-newest-baby"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/returning-to-project-vehicle-after-an-interview"/>
+        <rdf:li rdf:resource="/photo-gallery/images/returning-to-project-vehicle-after-an-interview"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/womans-jewellery"/>
+        <rdf:li rdf:resource="/photo-gallery/images/womans-jewellery"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-and-blankets"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-truck"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-and-truck"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-and-blankets-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-and-tent-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/goat-skin-container-and-other-household-materials"/>
+        <rdf:li rdf:resource="/photo-gallery/images/goat-skin-container-and-other-household-materials"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-camp-in-wadi-thayfut">
+  <item rdf:about="/photo-gallery/images/household-camp-in-wadi-thayfut">
     <title>Household camp in Wadi Thayfut</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-camp-in-wadi-thayfut</link>
+    <link>/photo-gallery/images/household-camp-in-wadi-thayfut</link>
     <description>Household camp in Wadi Thayfut</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -151,9 +151,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/brothers-and-sons-having-breakfast-before">
+  <item rdf:about="/photo-gallery/images/brothers-and-sons-having-breakfast-before">
     <title>Brothers and sons having breakfast before travelling</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/brothers-and-sons-having-breakfast-before</link>
+    <link>/photo-gallery/images/brothers-and-sons-having-breakfast-before</link>
     <description>Brothers and sons having breakfast before travelling</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -212,9 +212,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/father-and-children-1">
+  <item rdf:about="/photo-gallery/images/father-and-children-1">
     <title>Father and children</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/father-and-children-1</link>
+    <link>/photo-gallery/images/father-and-children-1</link>
     <description>Father and children</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -282,9 +282,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/admiring-the-newest-baby">
+  <item rdf:about="/photo-gallery/images/admiring-the-newest-baby">
     <title>Admiring the newest baby</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/admiring-the-newest-baby</link>
+    <link>/photo-gallery/images/admiring-the-newest-baby</link>
     <description>Admiring the newest baby</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -337,9 +337,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/returning-to-project-vehicle-after-an-interview">
+  <item rdf:about="/photo-gallery/images/returning-to-project-vehicle-after-an-interview">
     <title>Returning to project vehicle after an interview</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/returning-to-project-vehicle-after-an-interview</link>
+    <link>/photo-gallery/images/returning-to-project-vehicle-after-an-interview</link>
     <description>Returning to project vehicle after an interview</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -386,9 +386,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/womans-jewellery">
+  <item rdf:about="/photo-gallery/images/womans-jewellery">
     <title>Woman's jewellery</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/womans-jewellery</link>
+    <link>/photo-gallery/images/womans-jewellery</link>
     <description>Woman's jewellery</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -420,9 +420,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter">
+  <item rdf:about="/photo-gallery/images/tree-shelter">
     <title>Tree shelter</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter</link>
+    <link>/photo-gallery/images/tree-shelter</link>
     <description>Tree shelter</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -457,9 +457,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-1">
+  <item rdf:about="/photo-gallery/images/tree-shelter-1">
     <title>Tree shelter</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-1</link>
+    <link>/photo-gallery/images/tree-shelter-1</link>
     <description>Tree shelter</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -497,9 +497,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-2">
+  <item rdf:about="/photo-gallery/images/tree-shelter-2">
     <title>Tree shelter</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-2</link>
+    <link>/photo-gallery/images/tree-shelter-2</link>
     <description>Tree shelter</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -534,9 +534,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets">
+  <item rdf:about="/photo-gallery/images/tree-shelter-and-blankets">
     <title>Tree shelter and blankets</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets</link>
+    <link>/photo-gallery/images/tree-shelter-and-blankets</link>
     <description>Tree shelter and blankets</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -589,9 +589,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-truck">
+  <item rdf:about="/photo-gallery/images/tree-shelter-and-truck">
     <title>Tree shelter and truck</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-truck</link>
+    <link>/photo-gallery/images/tree-shelter-and-truck</link>
     <description>Tree shelter and truck</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -638,9 +638,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-3">
+  <item rdf:about="/photo-gallery/images/tree-shelter-3">
     <title>Tree shelter</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-3</link>
+    <link>/photo-gallery/images/tree-shelter-3</link>
     <description>Tree shelter</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -675,9 +675,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets-1">
+  <item rdf:about="/photo-gallery/images/tree-shelter-and-blankets-1">
     <title>Tree shelter and blankets</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets-1</link>
+    <link>/photo-gallery/images/tree-shelter-and-blankets-1</link>
     <description>Tree shelter and blankets</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -718,9 +718,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent-1">
+  <item rdf:about="/photo-gallery/images/tree-shelter-and-tent-1">
     <title>Tree shelter and tent</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent-1</link>
+    <link>/photo-gallery/images/tree-shelter-and-tent-1</link>
     <description>Tree shelter and tent</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -779,9 +779,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/goat-skin-container-and-other-household-materials">
+  <item rdf:about="/photo-gallery/images/goat-skin-container-and-other-household-materials">
     <title>Goat skin container and other household materials</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/goat-skin-container-and-other-household-materials</link>
+    <link>/photo-gallery/images/goat-skin-container-and-other-household-materials</link>
     <description>Goat skin container and other household materials</description>
     
     <dc:publisher>No publisher</dc:publisher>

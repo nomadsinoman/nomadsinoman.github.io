@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jalmud-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-caravan"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-caravan-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-caravan-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-caravan-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-caravan-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-caravan-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-6"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-6"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-and-chicken"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-and-chicken"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jalmud-well">
+  <item rdf:about="/photo-gallery/images/jalmud-well">
     <title>Jalmud well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jalmud-well</link>
+    <link>/photo-gallery/images/jalmud-well</link>
     <description>Jalmud well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -127,9 +127,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan">
+  <item rdf:about="/photo-gallery/images/camel-caravan">
     <title>Camel Caravan</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-caravan</link>
+    <link>/photo-gallery/images/camel-caravan</link>
     <description>Camel Caravan</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -170,9 +170,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-1">
+  <item rdf:about="/photo-gallery/images/camel-caravan-1">
     <title>Camel Caravan</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-1</link>
+    <link>/photo-gallery/images/camel-caravan-1</link>
     <description>Camel Caravan</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -213,9 +213,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-2">
+  <item rdf:about="/photo-gallery/images/camel-caravan-2">
     <title>Camel Caravan</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-2</link>
+    <link>/photo-gallery/images/camel-caravan-2</link>
     <description>Camel Caravan</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -256,9 +256,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-3">
+  <item rdf:about="/photo-gallery/images/camel-caravan-3">
     <title>Camel Caravan</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-3</link>
+    <link>/photo-gallery/images/camel-caravan-3</link>
     <description>Camel Caravan</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -299,9 +299,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-4">
+  <item rdf:about="/photo-gallery/images/camel-caravan-4">
     <title>Camel Caravan</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-4</link>
+    <link>/photo-gallery/images/camel-caravan-4</link>
     <description>Camel Caravan</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -342,9 +342,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-5">
+  <item rdf:about="/photo-gallery/images/camel-caravan-5">
     <title>Camel Caravan</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-caravan-5</link>
+    <link>/photo-gallery/images/camel-caravan-5</link>
     <description>Camel Caravan</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -379,9 +379,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race">
+  <item rdf:about="/photo-gallery/images/camel-race">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race</link>
+    <link>/photo-gallery/images/camel-race</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -428,9 +428,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-1">
+  <item rdf:about="/photo-gallery/images/camel-race-1">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-1</link>
+    <link>/photo-gallery/images/camel-race-1</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -477,9 +477,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-2">
+  <item rdf:about="/photo-gallery/images/camel-race-2">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-2</link>
+    <link>/photo-gallery/images/camel-race-2</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -526,9 +526,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-3">
+  <item rdf:about="/photo-gallery/images/camel-race-3">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-3</link>
+    <link>/photo-gallery/images/camel-race-3</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -581,9 +581,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-4">
+  <item rdf:about="/photo-gallery/images/camel-race-4">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-4</link>
+    <link>/photo-gallery/images/camel-race-4</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -630,9 +630,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-5">
+  <item rdf:about="/photo-gallery/images/camel-race-5">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-5</link>
+    <link>/photo-gallery/images/camel-race-5</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -679,9 +679,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-6">
+  <item rdf:about="/photo-gallery/images/camel-race-6">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-6</link>
+    <link>/photo-gallery/images/camel-race-6</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -734,9 +734,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-and-chicken">
+  <item rdf:about="/photo-gallery/images/camel-and-chicken">
     <title>Camel and chicken</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-and-chicken</link>
+    <link>/photo-gallery/images/camel-and-chicken</link>
     <description>Camel and chicken</description>
     
     <dc:publisher>No publisher</dc:publisher>

@@ -31,16 +31,16 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-camp-enclosed-area-for-storing-imoprtant"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-camp-enclosed-area-for-storing-imoprtant"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/rifle-storage-and-milk-bowl"/>
+        <rdf:li rdf:resource="/photo-gallery/images/rifle-storage-and-milk-bowl"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/fenced-household"/>
+        <rdf:li rdf:resource="/photo-gallery/images/fenced-household"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/ghubra-woods-7"/>
+        <rdf:li rdf:resource="/photo-gallery/images/ghubra-woods-7"/>
       
     </rdf:Seq>
   </items>
@@ -48,9 +48,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-camp-enclosed-area-for-storing-imoprtant">
+  <item rdf:about="/photo-gallery/images/household-camp-enclosed-area-for-storing-imoprtant">
     <title>Household camp: enclosed area for storing imoprtant possessions</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-camp-enclosed-area-for-storing-imoprtant</link>
+    <link>/photo-gallery/images/household-camp-enclosed-area-for-storing-imoprtant</link>
     <description>Household camp: enclosed area for storing imoprtant possessions</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -100,9 +100,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/rifle-storage-and-milk-bowl">
+  <item rdf:about="/photo-gallery/images/rifle-storage-and-milk-bowl">
     <title>Rifle, storage and milk bowl</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/rifle-storage-and-milk-bowl</link>
+    <link>/photo-gallery/images/rifle-storage-and-milk-bowl</link>
     <description>Rifle, storage and milk bowl</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -152,9 +152,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/fenced-household">
+  <item rdf:about="/photo-gallery/images/fenced-household">
     <title>Fenced household</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/fenced-household</link>
+    <link>/photo-gallery/images/fenced-household</link>
     <description>Fenced household</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -219,9 +219,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/ghubra-woods-7">
+  <item rdf:about="/photo-gallery/images/ghubra-woods-7">
     <title>Ghubra Woods</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/ghubra-woods-7</link>
+    <link>/photo-gallery/images/ghubra-woods-7</link>
     <description>Ghubra Woods</description>
     
     <dc:publisher>No publisher</dc:publisher>

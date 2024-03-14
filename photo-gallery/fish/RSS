@@ -31,19 +31,19 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bringing-in-the-tuna-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bringing-in-the-tuna-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bringing-in-the-tuna-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bringing-in-the-tuna-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/buying-fresh-tuna"/>
+        <rdf:li rdf:resource="/photo-gallery/images/buying-fresh-tuna"/>
       
     </rdf:Seq>
   </items>
@@ -51,9 +51,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-2">
+  <item rdf:about="/photo-gallery/images/bringing-in-the-tuna-2">
     <title>Bringing in the tuna</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-2</link>
+    <link>/photo-gallery/images/bringing-in-the-tuna-2</link>
     <description>Bringing in the tuna</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -94,9 +94,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-3">
+  <item rdf:about="/photo-gallery/images/bringing-in-the-tuna-3">
     <title>Bringing in the tuna</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-3</link>
+    <link>/photo-gallery/images/bringing-in-the-tuna-3</link>
     <description>Bringing in the tuna</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -137,9 +137,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-4">
+  <item rdf:about="/photo-gallery/images/bringing-in-the-tuna-4">
     <title>Bringing in the tuna</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-4</link>
+    <link>/photo-gallery/images/bringing-in-the-tuna-4</link>
     <description>Bringing in the tuna</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -180,9 +180,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-5">
+  <item rdf:about="/photo-gallery/images/bringing-in-the-tuna-5">
     <title>Bringing in the tuna</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bringing-in-the-tuna-5</link>
+    <link>/photo-gallery/images/bringing-in-the-tuna-5</link>
     <description>Bringing in the tuna</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -223,9 +223,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/buying-fresh-tuna">
+  <item rdf:about="/photo-gallery/images/buying-fresh-tuna">
     <title>Buying fresh tuna</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/buying-fresh-tuna</link>
+    <link>/photo-gallery/images/buying-fresh-tuna</link>
     <description>Buying fresh tuna</description>
     
     <dc:publisher>No publisher</dc:publisher>

@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market"/>
+        <rdf:li rdf:resource="/photo-gallery/images/nizwa-market"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fire-at-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam"/>
+        <rdf:li rdf:resource="/photo-gallery/images/family-camp-at-wadi-haytam"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-and-chicken"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-and-chicken"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/saddling-up-for-camel-races"/>
+        <rdf:li rdf:resource="/photo-gallery/images/saddling-up-for-camel-races"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/saddling-up-for-camel-races-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/saddling-up-for-camel-races-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camel-race-7"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camel-race-7"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/lost-on-the-jidda"/>
+        <rdf:li rdf:resource="/photo-gallery/images/lost-on-the-jidda"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/reparing-the-carburator"/>
+        <rdf:li rdf:resource="/photo-gallery/images/reparing-the-carburator"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/relaxing-at-night"/>
+        <rdf:li rdf:resource="/photo-gallery/images/relaxing-at-night"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/relaxing-at-night-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/relaxing-at-night-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/giving-advice-to-locals"/>
+        <rdf:li rdf:resource="/photo-gallery/images/giving-advice-to-locals"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market">
+  <item rdf:about="/photo-gallery/images/nizwa-market">
     <title>Nizwa market</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/nizwa-market</link>
+    <link>/photo-gallery/images/nizwa-market</link>
     <description>Nizwa market</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -115,9 +115,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site">
+  <item rdf:about="/photo-gallery/images/morning-fire-at-camp-site">
     <title>Morning fire at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site</link>
+    <link>/photo-gallery/images/morning-fire-at-camp-site</link>
     <description>Morning fire at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -182,9 +182,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -237,9 +237,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -292,9 +292,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam">
+  <item rdf:about="/photo-gallery/images/family-camp-at-wadi-haytam">
     <title>Family camp at Wadi Haytam</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam</link>
+    <link>/photo-gallery/images/family-camp-at-wadi-haytam</link>
     <description>Family camp at Wadi Haytam</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -353,9 +353,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-3">
+  <item rdf:about="/photo-gallery/images/camel-race-3">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-3</link>
+    <link>/photo-gallery/images/camel-race-3</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -408,9 +408,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-and-chicken">
+  <item rdf:about="/photo-gallery/images/camel-and-chicken">
     <title>Camel and chicken</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-and-chicken</link>
+    <link>/photo-gallery/images/camel-and-chicken</link>
     <description>Camel and chicken</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -451,9 +451,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/saddling-up-for-camel-races">
+  <item rdf:about="/photo-gallery/images/saddling-up-for-camel-races">
     <title>Saddling up for camel races</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/saddling-up-for-camel-races</link>
+    <link>/photo-gallery/images/saddling-up-for-camel-races</link>
     <description>Saddling up for camel races</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -509,9 +509,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/saddling-up-for-camel-races-1">
+  <item rdf:about="/photo-gallery/images/saddling-up-for-camel-races-1">
     <title>Saddling up for camel races</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/saddling-up-for-camel-races-1</link>
+    <link>/photo-gallery/images/saddling-up-for-camel-races-1</link>
     <description>Saddling up for camel races</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -564,9 +564,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camel-race-7">
+  <item rdf:about="/photo-gallery/images/camel-race-7">
     <title>Camel race</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camel-race-7</link>
+    <link>/photo-gallery/images/camel-race-7</link>
     <description>Camel race</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -607,9 +607,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/lost-on-the-jidda">
+  <item rdf:about="/photo-gallery/images/lost-on-the-jidda">
     <title>Lost on the Jidda</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/lost-on-the-jidda</link>
+    <link>/photo-gallery/images/lost-on-the-jidda</link>
     <description>Lost on the Jidda</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -653,9 +653,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/reparing-the-carburator">
+  <item rdf:about="/photo-gallery/images/reparing-the-carburator">
     <title>Reparing the carburator</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/reparing-the-carburator</link>
+    <link>/photo-gallery/images/reparing-the-carburator</link>
     <description>Reparing the carburator</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -693,9 +693,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/relaxing-at-night">
+  <item rdf:about="/photo-gallery/images/relaxing-at-night">
     <title>Relaxing at night</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/relaxing-at-night</link>
+    <link>/photo-gallery/images/relaxing-at-night</link>
     <description>Relaxing at night</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -727,9 +727,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/relaxing-at-night-1">
+  <item rdf:about="/photo-gallery/images/relaxing-at-night-1">
     <title>Relaxing at night</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/relaxing-at-night-1</link>
+    <link>/photo-gallery/images/relaxing-at-night-1</link>
     <description>Relaxing at night</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -773,9 +773,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/giving-advice-to-locals">
+  <item rdf:about="/photo-gallery/images/giving-advice-to-locals">
     <title>Giving advice to locals</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/giving-advice-to-locals</link>
+    <link>/photo-gallery/images/giving-advice-to-locals</link>
     <description>Giving advice to locals</description>
     
     <dc:publisher>No publisher</dc:publisher>

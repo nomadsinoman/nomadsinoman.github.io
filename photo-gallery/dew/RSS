@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/camels-in-early-morning-fog"/>
+        <rdf:li rdf:resource="/photo-gallery/images/camels-in-early-morning-fog"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/watering-camels"/>
+        <rdf:li rdf:resource="/photo-gallery/images/watering-camels"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-at-haima-hospital"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-at-haima-hospital-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-at-haima-hospital-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-at-haima-hospital-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-at-haima"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-dew-at-haima-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-dew-at-haima-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-over-the-escarpment"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-over-the-escarpment-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-over-the-escarpment-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-over-the-escarpment-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-near-yalooni"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-near-yalooni-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fog-near-yalooni-2"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/camels-in-early-morning-fog">
+  <item rdf:about="/photo-gallery/images/camels-in-early-morning-fog">
     <title>Camels in early morning fog</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/camels-in-early-morning-fog</link>
+    <link>/photo-gallery/images/camels-in-early-morning-fog</link>
     <description>Camels in early morning fog</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -115,9 +115,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/watering-camels">
+  <item rdf:about="/photo-gallery/images/watering-camels">
     <title>Watering camels</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/watering-camels</link>
+    <link>/photo-gallery/images/watering-camels</link>
     <description>Watering camels</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -164,9 +164,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital">
+  <item rdf:about="/photo-gallery/images/morning-fog-at-haima-hospital">
     <title>Morning fog at Haima Hospital</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital</link>
+    <link>/photo-gallery/images/morning-fog-at-haima-hospital</link>
     <description>Morning fog at Haima Hospital</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -201,9 +201,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-1">
+  <item rdf:about="/photo-gallery/images/morning-fog-at-haima-hospital-1">
     <title>Morning fog at Haima Hospital</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-1</link>
+    <link>/photo-gallery/images/morning-fog-at-haima-hospital-1</link>
     <description>Morning fog at Haima Hospital</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -241,9 +241,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-2">
+  <item rdf:about="/photo-gallery/images/morning-fog-at-haima-hospital-2">
     <title>Morning fog at Haima Hospital</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-2</link>
+    <link>/photo-gallery/images/morning-fog-at-haima-hospital-2</link>
     <description>Morning fog at Haima Hospital</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -278,9 +278,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-3">
+  <item rdf:about="/photo-gallery/images/morning-fog-at-haima-hospital-3">
     <title>Morning fog at Haima Hospital</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima-hospital-3</link>
+    <link>/photo-gallery/images/morning-fog-at-haima-hospital-3</link>
     <description>Morning fog at Haima Hospital</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -324,9 +324,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima">
+  <item rdf:about="/photo-gallery/images/morning-fog-at-haima">
     <title>Morning fog at Haima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-at-haima</link>
+    <link>/photo-gallery/images/morning-fog-at-haima</link>
     <description>Morning fog at Haima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -355,9 +355,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-dew-at-haima-2">
+  <item rdf:about="/photo-gallery/images/morning-dew-at-haima-2">
     <title>Morning dew at Haima</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-dew-at-haima-2</link>
+    <link>/photo-gallery/images/morning-dew-at-haima-2</link>
     <description>Morning dew at Haima</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -386,9 +386,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment">
+  <item rdf:about="/photo-gallery/images/morning-fog-over-the-escarpment">
     <title>Morning fog over the escarpment</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment</link>
+    <link>/photo-gallery/images/morning-fog-over-the-escarpment</link>
     <description>Morning fog over the escarpment</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -414,9 +414,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-1">
+  <item rdf:about="/photo-gallery/images/morning-fog-over-the-escarpment-1">
     <title>Morning fog over the escarpment</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-1</link>
+    <link>/photo-gallery/images/morning-fog-over-the-escarpment-1</link>
     <description>Morning fog over the escarpment</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -442,9 +442,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-2">
+  <item rdf:about="/photo-gallery/images/morning-fog-over-the-escarpment-2">
     <title>Morning fog over the escarpment</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-2</link>
+    <link>/photo-gallery/images/morning-fog-over-the-escarpment-2</link>
     <description>Morning fog over the escarpment</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -470,9 +470,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-3">
+  <item rdf:about="/photo-gallery/images/morning-fog-over-the-escarpment-3">
     <title>Morning fog over the escarpment</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-over-the-escarpment-3</link>
+    <link>/photo-gallery/images/morning-fog-over-the-escarpment-3</link>
     <description>Morning fog over the escarpment</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -498,9 +498,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni">
+  <item rdf:about="/photo-gallery/images/morning-fog-near-yalooni">
     <title>Morning fog near Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni</link>
+    <link>/photo-gallery/images/morning-fog-near-yalooni</link>
     <description>Morning fog near Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -532,9 +532,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni-1">
+  <item rdf:about="/photo-gallery/images/morning-fog-near-yalooni-1">
     <title>Morning fog near Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni-1</link>
+    <link>/photo-gallery/images/morning-fog-near-yalooni-1</link>
     <description>Morning fog near Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -569,9 +569,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni-2">
+  <item rdf:about="/photo-gallery/images/morning-fog-near-yalooni-2">
     <title>Morning fog near Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fog-near-yalooni-2</link>
+    <link>/photo-gallery/images/morning-fog-near-yalooni-2</link>
     <description>Morning fog near Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>

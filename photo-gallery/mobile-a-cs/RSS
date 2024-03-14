@@ -31,19 +31,19 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/the-first-air-conditioned-unit-on-the-jidda-at"/>
+        <rdf:li rdf:resource="/photo-gallery/images/the-first-air-conditioned-unit-on-the-jidda-at"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/mobile-storage-and-ac-unit"/>
+        <rdf:li rdf:resource="/photo-gallery/images/mobile-storage-and-ac-unit"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/commercial-tent-and-fenced-shelters"/>
+        <rdf:li rdf:resource="/photo-gallery/images/commercial-tent-and-fenced-shelters"/>
       
       
         <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/visiting-the-harasiis-december-2012/2012_haima_dc_0001-jpg"/>
@@ -60,9 +60,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/the-first-air-conditioned-unit-on-the-jidda-at">
+  <item rdf:about="/photo-gallery/images/the-first-air-conditioned-unit-on-the-jidda-at">
     <title>The first air conditioned unit on the Jidda at Ma'bar</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/the-first-air-conditioned-unit-on-the-jidda-at</link>
+    <link>/photo-gallery/images/the-first-air-conditioned-unit-on-the-jidda-at</link>
     <description>The first air conditioned unit on the Jidda at Ma'bar</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -103,9 +103,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/mobile-storage-and-ac-unit">
+  <item rdf:about="/photo-gallery/images/mobile-storage-and-ac-unit">
     <title>Mobile storage and AC unit</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/mobile-storage-and-ac-unit</link>
+    <link>/photo-gallery/images/mobile-storage-and-ac-unit</link>
     <description>Mobile storage and AC unit</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -152,9 +152,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and">
+  <item rdf:about="/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and">
     <title>Tents and fenced shelter with portable cabin and air conditioning</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and</link>
+    <link>/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and</link>
     <description>Tents and fenced shelter with portable cabin and air conditioning</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -201,9 +201,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and-1">
+  <item rdf:about="/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and-1">
     <title>Tents and fenced shelter with portable cabin and air conditioning</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and-1</link>
+    <link>/photo-gallery/images/tents-and-fenced-shelter-with-portable-cabin-and-1</link>
     <description>Tents and fenced shelter with portable cabin and air conditioning</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -244,9 +244,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/commercial-tent-and-fenced-shelters">
+  <item rdf:about="/photo-gallery/images/commercial-tent-and-fenced-shelters">
     <title>Commercial tent and fenced shelters</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/commercial-tent-and-fenced-shelters</link>
+    <link>/photo-gallery/images/commercial-tent-and-fenced-shelters</link>
     <description>Commercial tent and fenced shelters</description>
     
     <dc:publisher>No publisher</dc:publisher>

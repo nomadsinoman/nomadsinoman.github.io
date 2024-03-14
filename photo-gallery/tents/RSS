@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enjoying-youthful-company"/>
+        <rdf:li rdf:resource="/photo-gallery/images/enjoying-youthful-company"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enjoying-youthful-company-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/enjoying-youthful-company-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/midwife-with-new-mother-and-baby"/>
+        <rdf:li rdf:resource="/photo-gallery/images/midwife-with-new-mother-and-baby"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-and-blankets"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-and-tent"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/tree-shelter-and-tent-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent"/>
+        <rdf:li rdf:resource="/photo-gallery/images/government-issue-tent"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent-and-tree-shelter"/>
+        <rdf:li rdf:resource="/photo-gallery/images/government-issue-tent-and-tree-shelter"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/government-issue-tent-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-camp-anc-camels"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-camp-anc-camels"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/household-camp-with-a-government-issue-tent"/>
+        <rdf:li rdf:resource="/photo-gallery/images/household-camp-with-a-government-issue-tent"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/young-boy-admiring-orphaned-camel-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/young-boy-admiring-orphaned-camel-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bottle-feeding-an-orphaned-camel"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bottle-feeding-an-orphaned-camel"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/bottle-feeding-an-orphaned-camel-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/bottle-feeding-an-orphaned-camel-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/admiring-the-orphaned-camel-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/admiring-the-orphaned-camel-1"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enjoying-youthful-company">
+  <item rdf:about="/photo-gallery/images/enjoying-youthful-company">
     <title>Enjoying youthful company</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/enjoying-youthful-company</link>
+    <link>/photo-gallery/images/enjoying-youthful-company</link>
     <description>Enjoying youthful company</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -130,9 +130,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enjoying-youthful-company-1">
+  <item rdf:about="/photo-gallery/images/enjoying-youthful-company-1">
     <title>Enjoying youthful company</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/enjoying-youthful-company-1</link>
+    <link>/photo-gallery/images/enjoying-youthful-company-1</link>
     <description>Enjoying youthful company</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -179,9 +179,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/midwife-with-new-mother-and-baby">
+  <item rdf:about="/photo-gallery/images/midwife-with-new-mother-and-baby">
     <title>Midwife with new mother and baby</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/midwife-with-new-mother-and-baby</link>
+    <link>/photo-gallery/images/midwife-with-new-mother-and-baby</link>
     <description>Midwife with new mother and baby</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -225,9 +225,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets">
+  <item rdf:about="/photo-gallery/images/tree-shelter-and-blankets">
     <title>Tree shelter and blankets</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-blankets</link>
+    <link>/photo-gallery/images/tree-shelter-and-blankets</link>
     <description>Tree shelter and blankets</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -280,9 +280,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent">
+  <item rdf:about="/photo-gallery/images/tree-shelter-and-tent">
     <title>Tree shelter and tent</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent</link>
+    <link>/photo-gallery/images/tree-shelter-and-tent</link>
     <description>Tree shelter and tent</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -329,9 +329,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent-1">
+  <item rdf:about="/photo-gallery/images/tree-shelter-and-tent-1">
     <title>Tree shelter and tent</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/tree-shelter-and-tent-1</link>
+    <link>/photo-gallery/images/tree-shelter-and-tent-1</link>
     <description>Tree shelter and tent</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -390,9 +390,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent">
+  <item rdf:about="/photo-gallery/images/government-issue-tent">
     <title>Government issue tent</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent</link>
+    <link>/photo-gallery/images/government-issue-tent</link>
     <description>Government issue tent</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -442,9 +442,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent-and-tree-shelter">
+  <item rdf:about="/photo-gallery/images/government-issue-tent-and-tree-shelter">
     <title>Government issue tent and tree shelter</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent-and-tree-shelter</link>
+    <link>/photo-gallery/images/government-issue-tent-and-tree-shelter</link>
     <description>Government issue tent and tree shelter</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -500,9 +500,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent-1">
+  <item rdf:about="/photo-gallery/images/government-issue-tent-1">
     <title>Government issue tent</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/government-issue-tent-1</link>
+    <link>/photo-gallery/images/government-issue-tent-1</link>
     <description>Government issue tent</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -555,9 +555,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-camp-anc-camels">
+  <item rdf:about="/photo-gallery/images/household-camp-anc-camels">
     <title>Household camp anc camels</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-camp-anc-camels</link>
+    <link>/photo-gallery/images/household-camp-anc-camels</link>
     <description>Household camp anc camels</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -601,9 +601,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/household-camp-with-a-government-issue-tent">
+  <item rdf:about="/photo-gallery/images/household-camp-with-a-government-issue-tent">
     <title>Household camp with a government issue tent</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/household-camp-with-a-government-issue-tent</link>
+    <link>/photo-gallery/images/household-camp-with-a-government-issue-tent</link>
     <description>Household camp with a government issue tent</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -653,9 +653,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/young-boy-admiring-orphaned-camel-2">
+  <item rdf:about="/photo-gallery/images/young-boy-admiring-orphaned-camel-2">
     <title>Young boy admiring orphaned camel</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/young-boy-admiring-orphaned-camel-2</link>
+    <link>/photo-gallery/images/young-boy-admiring-orphaned-camel-2</link>
     <description>Young boy admiring orphaned camel</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -717,9 +717,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bottle-feeding-an-orphaned-camel">
+  <item rdf:about="/photo-gallery/images/bottle-feeding-an-orphaned-camel">
     <title>Bottle-feeding an orphaned camel</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bottle-feeding-an-orphaned-camel</link>
+    <link>/photo-gallery/images/bottle-feeding-an-orphaned-camel</link>
     <description>Bottle-feeding an orphaned camel</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -775,9 +775,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/bottle-feeding-an-orphaned-camel-1">
+  <item rdf:about="/photo-gallery/images/bottle-feeding-an-orphaned-camel-1">
     <title>Bottle-feeding an  orphaned camel</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/bottle-feeding-an-orphaned-camel-1</link>
+    <link>/photo-gallery/images/bottle-feeding-an-orphaned-camel-1</link>
     <description>Bottle-feeding an  orphaned camel</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -836,9 +836,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/admiring-the-orphaned-camel-1">
+  <item rdf:about="/photo-gallery/images/admiring-the-orphaned-camel-1">
     <title>Admiring the orphaned camel</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/admiring-the-orphaned-camel-1</link>
+    <link>/photo-gallery/images/admiring-the-orphaned-camel-1</link>
     <description>Admiring the orphaned camel</description>
     
     <dc:publisher>No publisher</dc:publisher>

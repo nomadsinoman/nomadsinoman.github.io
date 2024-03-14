@@ -31,40 +31,40 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/birds-in-the-desert"/>
+        <rdf:li rdf:resource="/photo-gallery/images/birds-in-the-desert"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/flamingos-at-the-escarpment"/>
+        <rdf:li rdf:resource="/photo-gallery/images/flamingos-at-the-escarpment"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dunes-of-sahma-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dunes-of-sahma-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni"/>
+        <rdf:li rdf:resource="/photo-gallery/images/sand-grouse-at-yalooni"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/sand-grouse-at-yalooni-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/sand-grouse-at-yalooni-2"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-3"/>
+        <rdf:li rdf:resource="/photo-gallery/images/sand-grouse-at-yalooni-3"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-4"/>
+        <rdf:li rdf:resource="/photo-gallery/images/sand-grouse-at-yalooni-4"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-5"/>
+        <rdf:li rdf:resource="/photo-gallery/images/sand-grouse-at-yalooni-5"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels"/>
+        <rdf:li rdf:resource="/photo-gallery/images/enclosure-for-young-camels"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/enclosure-for-young-camels-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/enclosure-for-young-camels-2"/>
       
     </rdf:Seq>
   </items>
@@ -72,9 +72,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/birds-in-the-desert">
+  <item rdf:about="/photo-gallery/images/birds-in-the-desert">
     <title>birds in the desert</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/birds-in-the-desert</link>
+    <link>/photo-gallery/images/birds-in-the-desert</link>
     <description>birds in the desert</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -109,9 +109,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/flamingos-at-the-escarpment">
+  <item rdf:about="/photo-gallery/images/flamingos-at-the-escarpment">
     <title>Flamingos at the escarpment</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/flamingos-at-the-escarpment</link>
+    <link>/photo-gallery/images/flamingos-at-the-escarpment</link>
     <description>Flamingos at the escarpment</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -149,9 +149,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dunes-of-sahma-5">
+  <item rdf:about="/photo-gallery/images/dunes-of-sahma-5">
     <title>Dunes of Sahma</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dunes-of-sahma-5</link>
+    <link>/photo-gallery/images/dunes-of-sahma-5</link>
     <description>Dunes of Sahma</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -189,9 +189,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni">
+  <item rdf:about="/photo-gallery/images/sand-grouse-at-yalooni">
     <title>Sand grouse at Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni</link>
+    <link>/photo-gallery/images/sand-grouse-at-yalooni</link>
     <description>Sand grouse at Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -229,9 +229,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-1">
+  <item rdf:about="/photo-gallery/images/sand-grouse-at-yalooni-1">
     <title>Sand grouse at Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-1</link>
+    <link>/photo-gallery/images/sand-grouse-at-yalooni-1</link>
     <description>Sand grouse at Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -269,9 +269,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-2">
+  <item rdf:about="/photo-gallery/images/sand-grouse-at-yalooni-2">
     <title>Sand grouse at Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-2</link>
+    <link>/photo-gallery/images/sand-grouse-at-yalooni-2</link>
     <description>Sand grouse at Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -309,9 +309,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-3">
+  <item rdf:about="/photo-gallery/images/sand-grouse-at-yalooni-3">
     <title>Sand grouse at Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-3</link>
+    <link>/photo-gallery/images/sand-grouse-at-yalooni-3</link>
     <description>Sand grouse at Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -349,9 +349,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-4">
+  <item rdf:about="/photo-gallery/images/sand-grouse-at-yalooni-4">
     <title>Sand grouse at Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-4</link>
+    <link>/photo-gallery/images/sand-grouse-at-yalooni-4</link>
     <description>Sand grouse at Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -386,9 +386,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-5">
+  <item rdf:about="/photo-gallery/images/sand-grouse-at-yalooni-5">
     <title>Sand grouse at Yalooni</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/sand-grouse-at-yalooni-5</link>
+    <link>/photo-gallery/images/sand-grouse-at-yalooni-5</link>
     <description>Sand grouse at Yalooni</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -423,9 +423,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels">
+  <item rdf:about="/photo-gallery/images/enclosure-for-young-camels">
     <title>Enclosure for young camels</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels</link>
+    <link>/photo-gallery/images/enclosure-for-young-camels</link>
     <description>Enclosure for young camels</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -463,9 +463,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-1">
+  <item rdf:about="/photo-gallery/images/enclosure-for-young-camels-1">
     <title>Enclosure for young camels</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-1</link>
+    <link>/photo-gallery/images/enclosure-for-young-camels-1</link>
     <description>Enclosure for young camels</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -503,9 +503,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-2">
+  <item rdf:about="/photo-gallery/images/enclosure-for-young-camels-2">
     <title>Enclosure for young camels</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/enclosure-for-young-camels-2</link>
+    <link>/photo-gallery/images/enclosure-for-young-camels-2</link>
     <description>Enclosure for young camels</description>
     
     <dc:publisher>No publisher</dc:publisher>

@@ -31,49 +31,49 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dressed-for-a-wedding"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/dressed-for-a-wedding-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market"/>
+        <rdf:li rdf:resource="/photo-gallery/images/nizwa-market"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break"/>
+        <rdf:li rdf:resource="/photo-gallery/images/taking-a-midday-break"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/taking-a-midday-break-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-tea-in-the-desert"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening"/>
+        <rdf:li rdf:resource="/photo-gallery/images/preparing-tea-in-the-evening"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site"/>
+        <rdf:li rdf:resource="/photo-gallery/images/morning-fire-at-camp-site"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/jalmud-water-trough"/>
+        <rdf:li rdf:resource="/photo-gallery/images/jalmud-water-trough"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam"/>
+        <rdf:li rdf:resource="/photo-gallery/images/family-camp-at-wadi-haytam"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/haima-school-1981"/>
+        <rdf:li rdf:resource="/photo-gallery/images/haima-school-1981"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/temporary-dormitories-across-the-high-way"/>
+        <rdf:li rdf:resource="/photo-gallery/images/temporary-dormitories-across-the-high-way"/>
       
     </rdf:Seq>
   </items>
@@ -81,9 +81,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding">
+  <item rdf:about="/photo-gallery/images/dressed-for-a-wedding">
     <title>Dressed for a wedding</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding</link>
+    <link>/photo-gallery/images/dressed-for-a-wedding</link>
     <description>Dressed for a wedding</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -124,9 +124,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1">
+  <item rdf:about="/photo-gallery/images/dressed-for-a-wedding-1">
     <title>Dressed for a wedding</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/dressed-for-a-wedding-1</link>
+    <link>/photo-gallery/images/dressed-for-a-wedding-1</link>
     <description>Dressed for a wedding</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -173,9 +173,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/nizwa-market">
+  <item rdf:about="/photo-gallery/images/nizwa-market">
     <title>Nizwa market</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/nizwa-market</link>
+    <link>/photo-gallery/images/nizwa-market</link>
     <description>Nizwa market</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -207,9 +207,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break">
+  <item rdf:about="/photo-gallery/images/taking-a-midday-break">
     <title>Taking a midday break</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break</link>
+    <link>/photo-gallery/images/taking-a-midday-break</link>
     <description>Taking a midday break</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -244,9 +244,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1">
+  <item rdf:about="/photo-gallery/images/taking-a-midday-break-1">
     <title>Taking a midday break</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/taking-a-midday-break-1</link>
+    <link>/photo-gallery/images/taking-a-midday-break-1</link>
     <description>Taking a midday break</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -287,9 +287,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert">
+  <item rdf:about="/photo-gallery/images/morning-tea-in-the-desert">
     <title>Morning tea in the desert</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-tea-in-the-desert</link>
+    <link>/photo-gallery/images/morning-tea-in-the-desert</link>
     <description>Morning tea in the desert</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -339,9 +339,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening">
+  <item rdf:about="/photo-gallery/images/preparing-tea-in-the-evening">
     <title>Preparing tea in the evening</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/preparing-tea-in-the-evening</link>
+    <link>/photo-gallery/images/preparing-tea-in-the-evening</link>
     <description>Preparing tea in the evening</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -391,9 +391,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site">
+  <item rdf:about="/photo-gallery/images/morning-fire-at-camp-site">
     <title>Morning fire at camp site</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/morning-fire-at-camp-site</link>
+    <link>/photo-gallery/images/morning-fire-at-camp-site</link>
     <description>Morning fire at camp site</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -458,9 +458,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -513,9 +513,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -568,9 +568,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/jalmud-water-trough">
+  <item rdf:about="/photo-gallery/images/jalmud-water-trough">
     <title>Jalmud water trough</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/jalmud-water-trough</link>
+    <link>/photo-gallery/images/jalmud-water-trough</link>
     <description>Jalmud water trough</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -629,9 +629,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam">
+  <item rdf:about="/photo-gallery/images/family-camp-at-wadi-haytam">
     <title>Family camp at Wadi Haytam</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/family-camp-at-wadi-haytam</link>
+    <link>/photo-gallery/images/family-camp-at-wadi-haytam</link>
     <description>Family camp at Wadi Haytam</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -690,9 +690,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981">
+  <item rdf:about="/photo-gallery/images/haima-tribal-centre-aerial-shot-1981">
     <title>Haima tribal centre aerial shot 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-tribal-centre-aerial-shot-1981</link>
+    <link>/photo-gallery/images/haima-tribal-centre-aerial-shot-1981</link>
     <description>Haima tribal centre aerial shot 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -727,9 +727,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/haima-school-1981">
+  <item rdf:about="/photo-gallery/images/haima-school-1981">
     <title>Haima school 1981</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/haima-school-1981</link>
+    <link>/photo-gallery/images/haima-school-1981</link>
     <description>Haima school 1981</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -758,9 +758,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/temporary-dormitories-across-the-high-way">
+  <item rdf:about="/photo-gallery/images/temporary-dormitories-across-the-high-way">
     <title>Temporary 'dormitories' across the 'high way'</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/temporary-dormitories-across-the-high-way</link>
+    <link>/photo-gallery/images/temporary-dormitories-across-the-high-way</link>
     <description>Temporary 'dormitories' across the 'high way'</description>
     
     <dc:publisher>No publisher</dc:publisher>

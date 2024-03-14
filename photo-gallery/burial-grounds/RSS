@@ -31,25 +31,25 @@
   <items>
     <rdf:Seq>
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi"/>
+        <rdf:li rdf:resource="/photo-gallery/images/view-west-in-the-wadi"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/view-west-in-the-wadi-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw"/>
+        <rdf:li rdf:resource="/photo-gallery/images/burial-ground-at-wadi-baw"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-1"/>
+        <rdf:li rdf:resource="/photo-gallery/images/burial-ground-at-wadi-baw-1"/>
       
       
-        <rdf:li rdf:resource="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-2"/>
+        <rdf:li rdf:resource="/photo-gallery/images/burial-ground-at-wadi-baw-2"/>
       
     </rdf:Seq>
   </items>
@@ -57,9 +57,9 @@
 </channel>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -112,9 +112,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
+  <item rdf:about="/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1">
     <title>Holding dwarf palm fronds at Wadi Baw well</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
+    <link>/photo-gallery/images/holding-dwarf-palm-fronds-at-wadi-baw-well-1</link>
     <description>Holding dwarf palm fronds at Wadi Baw well</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -167,9 +167,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi">
+  <item rdf:about="/photo-gallery/images/view-west-in-the-wadi">
     <title>View west in the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi</link>
+    <link>/photo-gallery/images/view-west-in-the-wadi</link>
     <description>View west in the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -207,9 +207,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-1">
+  <item rdf:about="/photo-gallery/images/view-west-in-the-wadi-1">
     <title>View west in the Wadi</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/view-west-in-the-wadi-1</link>
+    <link>/photo-gallery/images/view-west-in-the-wadi-1</link>
     <description>View west in the Wadi</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -241,9 +241,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw">
+  <item rdf:about="/photo-gallery/images/burial-ground-at-wadi-baw">
     <title>Burial ground at Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw</link>
+    <link>/photo-gallery/images/burial-ground-at-wadi-baw</link>
     <description>Burial ground at Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -275,9 +275,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-1">
+  <item rdf:about="/photo-gallery/images/burial-ground-at-wadi-baw-1">
     <title>Burial ground at Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-1</link>
+    <link>/photo-gallery/images/burial-ground-at-wadi-baw-1</link>
     <description>Burial ground at Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
@@ -303,9 +303,9 @@
   </item>
 
 
-  <item rdf:about="http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-2">
+  <item rdf:about="/photo-gallery/images/burial-ground-at-wadi-baw-2">
     <title>Burial ground at Wadi Baw</title>
-    <link>http://www.nomadsinoman.com/photo-gallery/images/burial-ground-at-wadi-baw-2</link>
+    <link>/photo-gallery/images/burial-ground-at-wadi-baw-2</link>
     <description>Burial ground at Wadi Baw</description>
     
     <dc:publisher>No publisher</dc:publisher>
